@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Employee_Attrition_Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8d615156-77e1-46f6-b37b-70baac26d490"
+  }
+}

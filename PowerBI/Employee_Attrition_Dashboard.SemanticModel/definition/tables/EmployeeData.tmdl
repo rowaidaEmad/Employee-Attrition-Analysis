@@ -1,0 +1,169 @@
+table EmployeeData
+	lineageTag: dcc09159-1260-46f8-be72-81d756cd0376
+
+	measure 'Total Employees' = DISTINCTCOUNT(EmployeeData[Employee_ID])
+		formatString: #,##0
+		lineageTag: c26f50cb-6135-41a3-ad1f-76fbb756d936
+
+	measure 'Attrited Employees' = CALCULATE([Total Employees], EmployeeData[Attrition] = "Yes")
+		formatString: #,##0
+		lineageTag: b8c0512b-c651-4f11-93eb-1e0b7a90dc2a
+
+	measure 'Attrition Rate' = DIVIDE([Attrited Employees], [Total Employees], 0)
+		formatString: 0.0%
+		lineageTag: 9a6ee76a-a42a-449f-9c82-cc099f7f98ed
+
+	measure 'Average Attrition Risk' = AVERAGE(EmployeeData[Attrition_Risk_Probability])
+		formatString: 0.0%
+		lineageTag: 94476c23-c3b0-44ee-a428-325ffee7e010
+
+	measure 'Pay Exceptions' = CALCULATE([Total Employees], EmployeeData[Pay_Equity_Flag] <> "Within Expected Range")
+		formatString: #,##0
+		lineageTag: e367058a-0b45-405c-a23a-1099fadfdab3
+
+	column Employee_ID
+		dataType: int64
+		formatString: 0
+		lineageTag: 02cffeaf-7952-4289-b4e0-7bd749a0c83e
+		summarizeBy: none
+		sourceColumn: Employee_ID
+
+	column Department
+		dataType: string
+		lineageTag: 31b9f8b8-eb42-4d07-99c8-7aa10abe421a
+		summarizeBy: none
+		sourceColumn: Department
+
+	column Job_Role
+		dataType: string
+		lineageTag: b79cc29c-1011-436f-ae94-c75f1f4bc747
+		summarizeBy: none
+		sourceColumn: Job_Role
+
+	column Education_Level
+		dataType: string
+		lineageTag: 2c148046-6a2e-4a9c-ba29-e62eb801001e
+		summarizeBy: none
+		sourceColumn: Education_Level
+
+	column Age
+		dataType: double
+		formatString: 0.0
+		lineageTag: 93deeb18-1c17-4ece-a69f-555b5e58b79e
+		summarizeBy: average
+		sourceColumn: Age
+
+	column Years_At_Company
+		dataType: double
+		formatString: 0.0
+		lineageTag: c0ef0be1-50b2-43d7-9817-a5f7b31f36c1
+		summarizeBy: average
+		sourceColumn: Years_At_Company
+
+	column Monthly_Income
+		dataType: double
+		formatString: #,##0.00
+		lineageTag: 91db124e-e3bb-466a-b2c7-2d8d4d83137d
+		summarizeBy: average
+		sourceColumn: Monthly_Income
+
+	column Performance_Score
+		dataType: double
+		formatString: 0.0
+		lineageTag: 3485081c-2e2d-4197-8cd2-676c943a728e
+		summarizeBy: average
+		sourceColumn: Performance_Score
+
+	column Join_Date
+		dataType: dateTime
+		formatString: Short Date
+		lineageTag: 4acab955-8111-4fe0-abbf-9892afae33f8
+		summarizeBy: none
+		sourceColumn: Join_Date
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Attrition
+		dataType: string
+		lineageTag: 6ea1a541-dbc3-4260-98cc-710e2124c39e
+		summarizeBy: none
+		sourceColumn: Attrition
+
+	column Predicted_Income
+		dataType: double
+		formatString: #,##0.00
+		lineageTag: 20770d55-b5fe-45b9-bf18-9a2229c48dd0
+		summarizeBy: average
+		sourceColumn: Predicted_Income
+
+	column Pay_Gap
+		dataType: double
+		formatString: #,##0.00
+		lineageTag: 24292a8e-a43b-4142-b9ba-0473db49344f
+		summarizeBy: sum
+		sourceColumn: Pay_Gap
+
+	column Pay_Gap_Percent
+		dataType: double
+		formatString: 0.00
+		lineageTag: 5a869bca-4831-4f6d-a147-1ed27c23838a
+		summarizeBy: average
+		sourceColumn: Pay_Gap_Percent
+
+	column Pay_Equity_Flag
+		dataType: string
+		lineageTag: cbb5ebd9-a392-4a07-b4d5-eb3cca16fc6d
+		summarizeBy: none
+		sourceColumn: Pay_Equity_Flag
+
+	column Attrition_Risk_Probability
+		dataType: double
+		formatString: 0.0%
+		lineageTag: b1a38757-4dd8-49f6-b571-1e97cb2584b9
+		summarizeBy: average
+		sourceColumn: Attrition_Risk_Probability
+
+	column Attrition_Risk_Level
+		dataType: string
+		lineageTag: d229e716-a885-49e5-af34-9a34b511e52a
+		summarizeBy: none
+		sourceColumn: Attrition_Risk_Level
+
+	column High_Performer
+		dataType: int64
+		formatString: 0
+		lineageTag: 6e78d24b-28c1-42d5-bf8d-49732f10a22d
+		summarizeBy: sum
+		sourceColumn: High_Performer
+
+	column Predicted_High_Performer
+		dataType: string
+		lineageTag: 3d67366b-2c8b-41f1-9d51-7a9c81cfce05
+		summarizeBy: none
+		sourceColumn: Predicted_High_Performer
+
+	column Cluster
+		dataType: int64
+		formatString: 0
+		lineageTag: a48d87f4-392b-4de6-b7b6-3d2f30333005
+		summarizeBy: none
+		sourceColumn: Cluster
+
+	column Employee_Segment
+		dataType: string
+		lineageTag: 29c24200-0087-41c9-ab74-91ef5afb31f0
+		summarizeBy: none
+		sourceColumn: Employee_Segment
+
+	partition EmployeeData = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Rowaida\final_proj\employee_attrition_final.csv"),[Delimiter=",", Columns=20, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Employee_ID", Int64.Type}, {"Department", type text}, {"Job_Role", type text}, {"Education_Level", type text}, {"Age", type number}, {"Years_At_Company", type number}, {"Monthly_Income", type number}, {"Performance_Score", type number}, {"Join_Date", type date}, {"Attrition", type text}, {"Predicted_Income", type number}, {"Pay_Gap", type number}, {"Pay_Gap_Percent", type number}, {"Pay_Equity_Flag", type text}, {"Attrition_Risk_Probability", type number}, {"Attrition_Risk_Level", type text}, {"High_Performer", Int64.Type}, {"Predicted_High_Performer", type text}, {"Cluster", Int64.Type}, {"Employee_Segment", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

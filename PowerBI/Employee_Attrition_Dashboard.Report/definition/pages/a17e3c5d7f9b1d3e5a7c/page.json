@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "a17e3c5d7f9b1d3e5a7c",
+  "displayName": "HR Attrition Overview",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280,
+  "pageBinding": {
+    "name": "e0e61d62b14d5a8a60a3",
+    "type": "Default",
+    "parameters": [],
+    "referenceScope": "CrossReport"
+  }
+}
