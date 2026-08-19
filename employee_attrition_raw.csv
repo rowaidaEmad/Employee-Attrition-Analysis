@@ -1,0 +1,1046 @@
+Employee_ID,Department,Job_Role,Education_Level,Age,Years_At_Company,Monthly_Income,Performance_Score,Join_Date,Attrition
+601,Engineering,Software Engineer,Bachelor,21,13,7155.17,92,2011-07-15,No
+737,SALES,Sales Executive,master,30,2,5122.52,59,2022-09-22,No
+315,Finance,Accountant,Bachelor's,37,0,4578.13,80,2024-06-18,No
+816,SALES,Sales Manager,Bachelor,31,0,3649.32,,2024-08-15,No
+979,marketing,Marketing Analyst,Bachelor,42,2,4218.21,75,2022-09-07,No
+10,Sales,Account Rep,Bachelor's,31,3,5031.15,76,2021-09-21,No
+135,Marketing,Marketing Manager,Master,35,12,7297.6,86,2012-09-26,No
+778,Sales,Sales Manager,Bachelor,36,0,2422.59,,2024-06-13,No
+410,FINANCE,Finance Manager,High School,21,0,2736.65,84,2024-06-22,No
+413,FINANCE,Finance Manager,Bachelor,25,1,3406.96,77,2023-08-23,Yes
+72,ENGINEEERING,Software Engineer,Bachelor,28,2,3296.54,38,2022-11-27,No
+460,Engineering,Software Engineer,bachelor,24,N/A,3563.54,56,2023-02-19,No
+510,finance,Finance Manager,High School,29,0,2590.3,97,2024-11-09,No
+55,engineering,Senior Engineer,High School,38,2,3663.41,60,2022-03-19,No
+802,Marketing,Content Specialist,Bachelor,34,4,5443.74,73,2020-11-24,No
+714,Human Resources,HR Specialist,PhD,21,0,6519.52,64,2024-03-08,No
+543,Sales,Sales Manager,Bachelor's,37,2,4255.01,68,2022-05-22,No
+768,SALES,Sales Executive,bachelor,31,2,4932.27,100,2022-05-25,Yes
+147,Marketing,Content Specialist,Bachelor,34,4,NA,69,2020-04-14,No
+837,Engineering,QA Engineer,Master,39,3,6223.34,84,2021-04-12,Yes
+488,hr,Recruiter,Master's,39,4,6656.28,58,2020-09-21,No
+874,Engineering,Senior Engineer,Bachelor,32,1,2481.58,62,2023-02-07,No
+949,Marketing,Content Specialist,HS,21,2,3293.4,64,2022-01-05,No
+719,Sales,Sales Executive,Master,38,0,5076.62,78,2024-10-17,No
+35,Marketing ,Marketing Manager,Bachelor,35,1,4700.66,85,2023-01-17,No
+172,Marketing ,Marketing Analyst,Bachelor,36,1,3729.38,81,2023-03-21,No
+396,Engineering,Senior Engineer,bachelor,21,9,7267.35,63,2015-07-14,No
+369,Marketing,Marketing Manager,Bachelor,27,0,3651.04,,2024-11-27,No
+362,Sales,Account Rep,bachelor,37,4,4259.49,,2020-10-27,Yes
+329,hr,Recruiter,Bachelor,36,1,3295.63,71,2023-07-20,No
+171,Sales,Sales Executive,bachelor,25,4,55214.55,67,2020-12-11,No
+684,MARKETING,Content Specialist,Bachelor,41,6,6256.33,82,2018-07-01,No
+257,sales,Sales Executive,master,37,11,9446.36,,2013-04-18,Yes
+1000,SALES,Account Rep,Master,40,0,3992.95,51,2024-11-25,Yes
+180,Sales,Account Rep,Master,43,0,5806.0,72,2024-03-17,No
+919,SALES,Sales Executive,High School,29,0,,69,2024-03-07,No
+586,Marketing,Marketing Manager,Bachelor,37,2,5695.2,85,2022-04-10,No
+165,Human Resources,Recruiter,Bachelor,38,8,6469.49,61,2016-02-11,No
+850,Eng.,QA Engineer,Master's,40,6,5752.89,61,2018-08-18,No
+957,Engineering,Senior Engineer,Bachelor,43,0,3470.17,69,2024-07-17,Yes
+326,Engineering,Senior Engineer,high school,36,4,NA,88,2020-11-16,No
+467,Sales,Account Rep,bachelor,21,N/A,3308.2,47,2023-06-12,Yes
+373,Finance,Financial Analyst,Bachelor,49,1,3544.52,73,2023-12-06,No
+602,sales,Sales Manager,bachelor,28,1,3805.73,58,2023-08-25,No
+485,Engineering,Senior Engineer,Master's,36,0,3663.35,78,2024-10-14,Yes
+14,Sales ,Account Rep,Master,30,2,7016.19,86,2022-08-27,No
+749,Engineering,Senior Engineer,Master's,37,0,5402.94,73,2024-05-03,No
+317,Finance,Finance Manager,High School,39,10,5125.66,,2014-12-01,No
+456,Sales ,Sales Manager,Bachelor,23,0,3527.11,76,2024-08-06,No
+141,Sales,Account Rep,Bachelor,43,20,7203.27,80,2005-04-08,No
+217,hr,Recruiter,PhD,43,8,7754.65,79,2016-07-16,No
+490,MARKETING,Marketing Analyst,High School,41,0,3295.19,80,2024-12-13,Yes
+306,Sales,Sales Executive,Bachelor's,30,0,3913.6,75,2024-08-24,Yes
+659,Sales ,Account Rep,Bachelor's,24,4,4962.91,98,2020-09-18,No
+956,sales,Sales Manager,Bachelor's,39,2,4966.18,68,2022-10-06,No
+583,Engineering,Software Engineer,Bachelor's,35,7,4746.41,74,2017-12-15,No
+900,sales,Account Rep,Master,45,2,4629.46,82,2022-05-17,No
+661,Sales,Sales Executive,Bachelor,38,2,NA,64,2022-08-18,No
+409,Sales ,Sales Manager,High School,33,6,4193.69,63,2018-10-17,No
+100,Engineeering,Software Engineer,Bachelor,50,1,4243.07,64,2023-05-11,Yes
+786,Engineering,Software Engineer,Bachelor,50,9,6458.52,70,2015-11-26,No
+154,Marketing ,Marketing Analyst,High School,42,2,2873.64,71,2022-12-18,No
+47,Human Resources,HR Manager,Master,25,12,7633.42,55,2012-02-08,No
+5,Sales,Sales Manager,Master,56,null,5659.42,80,2024-07-25,Yes
+173,SALES,Sales Manager,master,38,2,4876.5,58,2022-07-07,No
+966,Sales,Sales Executive,Bachelor,30,7,6996.87,77,2017-08-07,No
+927,Marketing,Content Specialist,Bachelor,42,0,4490.99,57,2024-05-17,Yes
+223,sales,Sales Executive,High School,130,0,2784.64,80,2024-04-08,No
+998,Sales ,Account Rep,bachelor,43,0,4061.57,87,2024-10-23,No
+260,Engineeering,QA Engineer,Bachelor,31,1,4066.44,73,2023-08-01,No
+559,Sales,Sales Manager,PhD,27,10,8586.79,80,2014-06-06,No
+233,Sales,Sales Manager,Bachelor,42,5,4501.98,77,2019-05-10,No
+109,finance,Accountant,Bachelor,47,1,4961.88,54,2023-06-22,Yes
+855,Engineering,Senior Engineer,Bachelor,31,1,,82,2023-03-13,No
+981,Marketing,Content Specialist,Master,48,0,4435.48,91,2024-05-20,No
+99,Sales,Sales Executive,Master's,41,N/A,5579.88,78,2021-01-06,No
+601,Engineering,Software Engineer,Bachelor,21,13,7155.17,92,2011-07-15,No
+766,HR,HR Manager,Master's,29,2,5924.22,50,2022-07-12,Yes
+834,Engineering,Software Engineer,master,28,0,5443.1,79,2024-06-16,No
+221,Finance,Financial Analyst,HS,28,7,4989.51,70,2017-10-13,No
+358,Engineering,Senior Engineer,high school,25,8,5999.14,74,2016-02-13,No
+972,Eng.,Software Engineer,Master,36,2,5678.76,70,2022-02-05,No
+25,Sales,Sales Executive,Bachelor,29,8,5688.87,,2016-06-19,No
+993,Engineering,Software Engineer,Bachelor's,44,1,3872.68,71,2023-05-14,Yes
+682,Engineering,QA Engineer,high school,24,,2277.65,60,2024-01-09,No
+385,Sales,Account Rep,Bachelor,32,null,3441.67,84,2023-11-18,No
+95,finance,Finance Manager,bachelor,38,0,3512.89,70,2024-10-03,Yes
+771,Marketing ,Marketing Manager,Bachelor,21,1,4517.51,83,2023-07-22,No
+452,Eng.,Senior Engineer,bachelor,45,7,4285.51,40,2017-04-03,No
+26,Engineering,Software Engineer,Master's,130,1,3541.41,77,2023-12-12,No
+114,Finance ,Accountant,Master,45,NA,5817.87,95,2022-06-26,No
+126,sales,Account Rep,PhD,28,0,6601.62,65,2024-01-12,No
+61,MARKETING,Marketing Manager,Bachelor,56,0,2881.73,61,2024-12-02,Yes
+434,HR,HR Manager,Master's,28,3,4855.43,79,2021-11-25,No
+296,ENGINEERING,QA Engineer,Master,29,5,7022.31,,2019-05-10,No
+245,marketing,Content Specialist,Bachelor,41,0,null,100,2024-03-20,No
+681,Human Resources,Recruiter,Ph.D.,52,4,8960.84,90,2020-06-26,Yes
+76,Finance ,Accountant,Bachelor,21,2,4903.51,87,2022-07-03,Yes
+899,Sales,Sales Executive,Bachelor's,25,null,2901.76,73,2023-08-25,No
+427,Engineering,Senior Engineer,High School,25,3,5100.42,97,2021-10-26,No
+716,H.R.,HR Manager,High School,30,2,3888.19,67,2022-12-27,No
+418,Sales ,Account Rep,Bachelor,32,5,6136.66,88,2019-09-23,No
+910,Sales,Sales Manager,Bachelor,44,2,3936.03,64,2022-02-15,No
+390,marketing,Marketing Manager,Master,33,0,4200.99,64,2024-02-25,No
+54,Finance,Accountant,Master,26,3,5569.77,75,2021-10-23,No
+844,HR,Recruiter,Bachelor's,21,5,5051.16,66,2019-10-21,No
+351,Finance,Accountant,Bachelor,25,0,3603.93,80,2024-08-09,No
+206,Marketing,Marketing Analyst,Master,33,7,53235.72,93,2017-07-09,No
+472,sales,Sales Executive,Bachelor,44,1,4143.85,67,2023-04-02,Yes
+532,sales,Account Rep,PhD,52,2,7035.25,75,2022-08-09,No
+644,sales,Sales Executive,High School,36,16,6919.47,74,2008-06-14,No
+404,Marketing,Marketing Manager,Master,27,0,4935.97,51,2024-02-22,Yes
+907,Engineering,QA Engineer,High School,21,0,3354.65,73,2024-06-16,No
+493,Finance,Finance Manager,Bachelor's,39,4,4749.94,60,2020-06-04,No
+376,Human Resources,Recruiter,Bachelor,23,-999,3106.69,69,2024-12-15,Yes
+913,Marketing,Marketing Manager,Bachelor,21,4,4226.73,77,2020-09-04,No
+511,Sales,Sales Executive,Ph.D.,31,0,5156.98,67,2024-03-03,No
+98,FINANCE,Financial Analyst,Bachelor,30,2,3410.34,63,2022-10-18,No
+286,Marketing,Marketing Analyst,Bachelor,29,0,3085.05,54,2024-04-27,Yes
+783,Sales,Sales Executive,Master,30,NA,4728.2,83,2024-04-25,Yes
+740,finance,Finance Manager,Master,37,1,,71,2023-08-12,No
+499,Engineering,Senior Engineer,High School,25,6,4743.11,80,2018-10-06,No
+781,FINANCE,Finance Manager,Bachelor,21,2,4145.89,75,2022-06-19,No
+18,finance,Financial Analyst,bachelor,34,7,5312.33,84,2017-04-11,No
+197,Finance,Financial Analyst,Bachelor,25,2,4804.95,69,2022-06-12,No
+27,Finance,Accountant,High School,51,5,4654.12,72,2019-01-24,No
+729,Human Resources,HR Manager,Master's,30,2,4036.99,63,2022-08-27,No
+187,SALES,Sales Manager,bachelor,31,6,33710.04,46,2018-03-12,No
+744,Sales,Account Rep,PhD,33,-999,5132.78,39,2024-10-16,No
+345,engineering,Software Engineer,Bachelor,39,0,2448.96,87,2024-04-20,No
+703,Marketing,Content Specialist,Master,35,6,4741.72,65,2018-04-06,No
+190,SALES,Sales Executive,Master,36,null,5909.95,95,2020-05-03,No
+743,engineering,QA Engineer,Bachelor,44,3,3017.63,,2021-01-26,No
+971,Engineering,Senior Engineer,Master,26,11,6364.49,71,2013-08-05,No
+271,Sales,Sales Manager,High School,39,4,4892.35,76,2020-11-13,No
+327,Sales,Account Rep,phd,49,9,9252.24,52,2015-07-11,Yes
+807,MARKETING,Marketing Analyst,Master,28,0,5213.31,81,2024-02-13,No
+813,sales,Sales Manager,High School,36,1,3350.23,48,2023-10-25,Yes
+779,H.R.,HR Manager,Bachelor's,31,0,2858.12,88,2024-02-08,No
+796,Sales,Account Rep,Master,40,4,6735.44,84,2020-02-14,No
+352,HR,HR Manager,High School,33,7,4546.1,46,2017-08-09,No
+386,Engineering,Software Engineer,Bachelor,26,NA,3938.53,51,2023-11-06,Yes
+753,Engineering,QA Engineer,Bachelor's,42,0,4283.25,79,2024-03-04,No
+792,Eng.,Software Engineer,HS,30,6,4985.44,93,2018-07-04,No
+732,engineering,Senior Engineer,Master,32,6,6008.74,61,2018-01-21,No
+263,marketing,Marketing Analyst,Bachelor's,37,0,3775.87,76,2024-02-26,No
+841,Engineering,QA Engineer,High School,33,0,2756.01,75,2024-08-01,No
+75,Engineeering,QA Engineer,high school,45,2,2103.84,86,2022-01-08,No
+169,engineering,Software Engineer,Bachelor,50,,5670.02,64,2020-01-14,No
+650,Marketing,Marketing Manager,Bachelor,32,5,5979.48,53,2019-08-09,No
+563,MARKETING,Marketing Analyst,Bachelor,44,0,4205.86,92,2024-02-16,No
+263,marketing,Marketing Analyst,Bachelor's,37,0,3775.87,76,2024-02-26,No
+660,FINANCE,Financial Analyst,Bachelor,35,16,7428.22,73,2008-07-27,No
+730,Marketing,Marketing Analyst,Master,26,1,4293.99,71,2023-04-13,No
+554,Finance,Accountant,Bachelor,36,5,4584.35,64,2019-09-07,No
+307,Sales,Account Rep,Master,33,6,5149.56,59,2018-12-23,Yes
+926,Engineering,Senior Engineer,Bachelor's,38,4,4488.74,74,2020-04-27,No
+962,engineering,Software Engineer,Bachelor's,30,1,4966.99,53,2023-05-06,No
+758,Engineeering,Senior Engineer,Bachelor's,31,4,4593.37,85,2020-08-02,No
+897,Engineering,QA Engineer,Bachelor,21,0,4477.65,61,2024-09-15,No
+791,Finance,Finance Manager,Bachelor,52,-999,7384.53,66,2014-08-02,No
+642,Engineering,Software Engineer,bachelor,28,7,null,72,2017-04-26,Yes
+503,Engineering,Senior Engineer,master,30,4,4860.54,69,2020-03-26,No
+309,finance,Accountant,Bachelor,31,0,?,92,2024-12-06,No
+111,Human Resources,HR Manager,master,29,null,5114.43,68,2024-12-20,No
+526,Sales,Sales Manager,bachelor,30,0,4613.56,66,2024-01-05,No
+870,sales,Sales Manager,Master's,37,0,-999,95,2024-08-09,Yes
+58,HR,Recruiter,PhD,42,1,5640.02,66,2023-08-23,Yes
+651,HR,Recruiter,bachelor,32,2,3548.07,76,2022-01-02,No
+7,FINANCE,Finance Manager,master,41,0,5343.6,61,2024-08-12,No
+967,Eng.,Software Engineer,bachelor,4,6,5226.84,47,2018-04-23,No
+139,HR,HR Manager,bachelor,37,1,4781.47,74,2023-05-01,No
+164,Engineeering,Software Engineer,bachelor,28,5,4399.43,74,2019-07-12,No
+359,Finance,Finance Manager,Bachelor,33,0,3986.88,48,2024-01-17,No
+891,Engineeering,Software Engineer,Bachelor's,21,23,9975.68,56,2005-10-19,No
+839,Sales,Sales Manager,High School,38,0,3077.86,82,2024-11-11,No
+44,Finance ,Accountant,High School,23,2,2704.85,80,2022-03-06,Yes
+616,Engineering,QA Engineer,bachelor,33,8,7094.9,85,2016-03-03,No
+64,SALES,Account Rep,Bachelor's,37,1,5088.4,81,2023-08-14,No
+592,hr,HR Manager,Bachelor,35,1,4195.57,80,2023-06-25,Yes
+587,Marketing ,Marketing Manager,Master,29,2,6011.45,67,2022-07-16,No
+39,Engineeering,Senior Engineer,High School,43,11,5338.26,63,2013-06-07,No
+400,Engineeering,QA Engineer,high school,40,5,?,81,2019-06-13,No
+787,Marketing ,Marketing Analyst,Bachelor,24,3,,70,2021-11-18,No
+889,Finance,Accountant,Master,55,4,5430.78,62,2020-10-08,No
+984,Engineering,Software Engineer,Bachelor,33,3,5403.57,57,2021-07-13,Yes
+205,Sales ,Sales Manager,Master's,38,3,6313.86,61,2021-05-21,No
+421,Sales,Sales Manager,Bachelor,31,4,5376.78,67,2020-11-21,No
+961,Marketing,Content Specialist,High School,41,3,2981.51,67,2021-01-06,No
+863,Finance,Accountant,Master,41,2,4123.68,68,2022-03-04,Yes
+285,Sales,Sales Manager,HS,40,13,4143.54,74,2011-02-13,Yes
+453,HR,HR Specialist,PhD,39,0,NA,65,2024-01-18,No
+789,MARKETING,Marketing Manager,High School,33,10,5458.09,91,2014-09-06,No
+497,SALES,Sales Manager,high school,32,3,4181.01,51,2021-01-26,No
+419,MARKETING,Content Specialist,Master,24,4,4836.05,60,2020-04-21,No
+413,FINANCE,Finance Manager,Bachelor,25,1,3406.96,77,2023-08-23,Yes
+473,engineering,Senior Engineer,Bachelor,36,16,8149.43,85,2008-09-08,No
+186,Finance ,Finance Manager,Bachelor,36,3,5773.67,74,2021-05-03,No
+969,Engineering,QA Engineer,bachelor,39,4,5032.3,65,2020-03-22,No
+633,Engineering,QA Engineer,PhD,24,0,5383.96,82,2024-04-04,No
+857,Sales ,Sales Manager,phd,33,-999,7391.16,90,2023-08-20,Yes
+873,Sales,Account Rep,master,50,2,6077.39,81,2022-04-15,No
+229,Engineering,Software Engineer,Bachelor,44,0,4159.57,68,2024-04-02,No
+548,sales,Account Rep,bachelor,38,6,5109.09,84,2018-10-27,No
+858,HR,HR Specialist,Master,22,1,4892.75,87,2023-10-15,No
+368,Sales,Sales Executive,Bachelor,24,2,3762.47,67,2022-02-04,No
+62,Engineeering,Software Engineer,High School,30,0,4075.45,64,2024-01-05,No
+627,Finance ,Financial Analyst,Bachelor,30,2,3516.45,55,2022-02-07,No
+597,Sales ,Sales Executive,Bachelor,40,3,4398.56,80,2021-05-20,Yes
+508,Engineering,Software Engineer,High School,28,0,2870.52,73,2024-07-01,No
+545,Engineering,QA Engineer,High School,42,8,5236.43,93,2016-01-17,No
+596,sales,Account Rep,Master,21,1,4674.84,86,2023-12-05,No
+748,Sales,Sales Manager,Bachelor's,53,3,6276.68,60,2021-10-22,No
+455,Eng.,Software Engineer,High School,30,2,3422.45,62,2022-05-08,No
+254,Sales,Account Rep,bachelor,30,0,4038.49,88,2024-10-22,No
+138,SALES,Account Rep,Bachelor,37,1,3996.37,100,2023-03-07,No
+515,sales,Sales Manager,Master,33,2,5358.85,86,2022-03-12,No
+710,Sales,Sales Manager,Master,26,2,6275.68,57,2022-05-03,No
+436,Sales,Sales Manager,HS,27,1,3741.84,60,2023-12-22,No
+571,Sales,Sales Manager,High School,39,1,3279.81,76,2023-06-01,No
+110,Engineering,QA Engineer,PhD,36,2,5586.4,91,2022-06-11,No
+678,Engineering,QA Engineer,Bachelor,36,2,4568.84,86,2022-02-07,No
+361,Marketing,Content Specialist,Master,30,3,4103.02,67,2021-10-26,Yes
+337,Engineeering,Senior Engineer,high school,24,8,3413.12,75,2016-10-18,No
+611,Engineering,QA Engineer,Bachelor,39,0,3465.32,69,2024-04-15,No
+701,Sales,Sales Manager,PhD,28,1,5960.02,100,2023-05-20,No
+320,Engineering,Senior Engineer,Master's,32,1,6245.42,83,2023-02-06,No
+614,finance,Financial Analyst,Master,21,0,5447.04,72,2024-09-07,No
+397,Sales ,Account Rep,high school,31,6,4812.62,74,2018-01-13,No
+149,Sales ,Sales Executive,Ph.D.,39,0,5586.94,72,2024-03-05,No
+794,Sales,Account Rep,master,21,0,4931.76,61,2024-08-04,No
+685,Human Resources,HR Manager,High School,48,4,3361.45,64,2020-05-23,No
+541,FINANCE,Finance Manager,Master,37,0,4800.51,83,2024-09-15,No
+159,Sales ,Account Rep,Master,32,12,7662.64,83,2012-04-12,No
+929,Human Resources,Recruiter,Bachelor,35,0,4076.77,83,2024-04-18,No
+483,Sales,Sales Executive,HS,31,1,2168.56,85,2023-12-26,No
+570,Engineering,QA Engineer,Bachelor,42,9,5940.08,82,2015-07-20,No
+494,Sales,Sales Manager,Bachelor,29,2,5387.67,67,2022-04-04,No
+24,finance,Financial Analyst,high school,25,3,3374.84,51,2021-08-13,No
+690,HR,HR Manager,bachelor,41,1,3514.78,76,2023-05-12,No
+129,FINANCE,Finance Manager,bachelor,34,0,3213.66,58,2024-05-19,No
+862,FINANCE,Finance Manager,Bachelor,39,2,4344.47,75,2022-10-19,No
+973,sales,Account Rep,Bachelor,32,8,5960.8,62,2016-08-02,No
+325,Finance,Finance Manager,High School,35,3,3793.31,74,2021-01-20,No
+903,Sales,Sales Executive,Bachelor,50,2,3795.12,81,2022-10-08,No
+512,Engineering,Software Engineer,PhD,41,2,NA,69,2022-05-13,No
+363,Finance,Finance Manager,Master,41,9,5415.39,76,2015-08-07,No
+953,Finance,Finance Manager,Bachelor's,31,1,2807.93,82,2023-04-14,No
+468,Engineeering,QA Engineer,Bachelor's,33,1,4754.32,83,2023-07-07,No
+715,HR,HR Specialist,Master,26,0,5301.07,65,2024-03-03,No
+847,Engineering,Senior Engineer,HS,47,7,4892.69,46,2017-05-05,Yes
+759,Sales,Account Rep,Master,44,3,null,84,2021-08-22,No
+831,HR,HR Manager,High School,41,2,3869.78,61,2022-05-04,No
+680,Sales,Sales Executive,Bachelor,30,1,-999,56,2023-09-07,No
+420,Engineering,Senior Engineer,PhD,30,3,6889.94,80,2021-11-17,No
+527,sales,Account Rep,bachelor,26,6,5745.77,56,2018-01-14,No
+610,SALES,Sales Manager,Bachelor,32,NA,5261.17,60,2023-03-08,No
+250,Engineeering,Software Engineer,bachelor,34,7,6578.79,59,2017-10-04,No
+380,engineering,QA Engineer,Master,41,2,3200.49,,2022-01-04,Yes
+16,sales,Account Rep,Bachelor,29,0,3275.93,90,2024-01-11,No
+160,Engineering,Software Engineer,bachelor,33,6,4621.28,76,2018-08-18,No
+645,HR,HR Specialist,bachelor,43,1,5005.08,,2023-04-10,No
+49,Sales,Account Rep,Master,35,3,5591.27,81,2021-02-20,No
+990,Eng.,Software Engineer,PhD,45,9,7908.56,60,2015-04-12,No
+700,Sales,Sales Manager,Bachelor,32,0,23594.67,69,2024-09-19,No
+412,Sales ,Sales Manager,Bachelor,29,0,3934.17,56,2024-03-22,No
+378,Engineeering,Senior Engineer,PhD,34,0,7893.31,79,2024-11-16,Yes
+295,Marketing ,Marketing Analyst,master,25,0,4624.26,86,2024-12-16,No
+568,engineering,QA Engineer,High School,26,8,5163.99,66,2016-04-08,No
+128,Engineeering,Software Engineer,High School,30,0,3550.44,80,2024-03-06,No
+298,HR,HR Specialist,PhD,35,6,8278.29,91,2018-11-18,Yes
+997,Marketing,Content Specialist,Bachelor's,35,7,5706.21,65,2017-07-22,No
+238,engineering,QA Engineer,Master's,35,1,5278.04,92,2023-02-26,Yes
+168,Marketing,Marketing Manager,Bachelor,21,4,5639.91,65,2020-07-07,No
+893,FINANCE,Financial Analyst,Master,26,2,3975.2,54,2022-09-24,No
+447,HR,HR Manager,phd,35,1,6641.31,70,2023-08-09,No
+81,Engineering,Senior Engineer,High School,51,1,3577.73,74,2023-10-13,No
+876,Sales,Sales Executive,HS,33,1,3336.23,76,2023-03-23,No
+942,engineering,Senior Engineer,Bachelor's,24,0,3940.74,58,2024-10-22,No
+938,sales,Sales Executive,Master's,27,0,4791.36,60,2024-02-18,No
+31,Sales ,Sales Manager,Bachelor,34,3,5065.93,83,2021-02-17,No
+243,Finance,Accountant,PhD,37,1,6745.72,69,2023-04-24,No
+672,HR,HR Manager,Master,36,1,5875.6,65,2023-10-02,No
+741,engineering,QA Engineer,Bachelor,32,9,6951.11,86,2015-02-25,Yes
+572,sales,Sales Executive,Bachelor,38,5,N/A,60,2019-10-01,No
+776,Engineering,QA Engineer,Master's,37,2,5811.11,74,2022-06-27,No
+579,Marketing,Content Specialist,Bachelor,48,1,-999,53,2023-08-07,Yes
+706,Engineering,Senior Engineer,Bachelor,39,NA,6357.09,81,2019-06-27,No
+28,Sales,Account Rep,Bachelor,37,0,,63,2024-10-01,Yes
+578,FINANCE,Finance Manager,Bachelor,34,0,2961.82,56,2024-04-10,No
+123,Engineering,Senior Engineer,High School,32,10,4646.16,72,2014-10-20,Yes
+803,Marketing ,Marketing Analyst,Master,36,2,6011.52,62,2022-08-15,No
+936,SALES,Sales Manager,master,35,2,3795.83,75,2022-02-19,No
+921,SALES,Sales Executive,Bachelor,37,1,?,77,2023-09-25,No
+724,MARKETING,Marketing Manager,Bachelor,29,0,3834.79,52,2024-01-04,No
+564,H.R.,HR Specialist,high school,36,1,3343.42,,2023-08-06,No
+509,Engineering,Senior Engineer,Bachelor's,46,3,5013.05,80,2021-10-07,No
+659,SALES,Account Rep,Bachelor's,24,4,4962.91,98,2020-09-18,No
+272,Marketing,Marketing Manager,master,37,2,-999,64,2022-06-11,No
+348,sales,Sales Executive,High School,41,18,7438.15,66,2006-04-19,No
+757,Marketing,Marketing Manager,Master,37,2,4729.84,59,2022-01-26,No
+278,MARKETING,Content Specialist,Bachelor,34,1,2639.61,59,2023-04-15,No
+895,Sales,Sales Executive,Master,45,0,3325.85,98,2024-09-06,No
+908,Sales,Account Rep,Bachelor,34,9,5743.03,86,2015-09-02,No
+432,HR,Recruiter,bachelor,30,3,3753.16,78,2021-05-08,No
+692,Engineering,Software Engineer,High School,43,0,3412.68,77,2024-12-22,No
+976,Marketing,Content Specialist,PhD,45,3,6135.33,67,2021-06-10,No
+148,SALES,Sales Manager,Bachelor,35,2,4060.25,60,2022-02-04,No
+300,Engineering,Senior Engineer,Bachelor,28,7,5985.46,87,2017-12-08,No
+557,Engineering,QA Engineer,master,26,4,6540.66,67,2020-06-08,No
+446,Engineering,Software Engineer,High School,37,1,3253.15,65,2023-04-22,No
+878,finance,Finance Manager,Bachelor's,40,6,4105.08,83,2018-02-15,No
+458,engineering,QA Engineer,HS,30,0,3437.75,73,2024-05-18,No
+52,HR,Recruiter,Bachelor's,45,3,4970.49,65,2021-10-22,No
+879,Human Resources,HR Specialist,Bachelor,48,6,5617.42,64,2018-05-08,No
+519,Finance,Financial Analyst,Bachelor,38,0,3898.89,79,2024-04-16,No
+23,Sales,Account Rep,Bachelor,23,7,4199.94,79,2017-11-10,No
+319,sales,Sales Executive,Master's,22,5,5090.47,61,2019-03-11,No
+675,HR,HR Specialist,high school,30,0,3288.58,70,2024-05-27,No
+433,Engineering,Senior Engineer,Master,34,1,5632.4,67,2023-12-07,No
+210,Engineering,Senior Engineer,Bachelor,34,2,4329.74,,2022-12-05,No
+620,Eng.,Senior Engineer,Bachelor,40,1,4891.68,66,2023-10-25,No
+143,Eng.,QA Engineer,Master,25,19,-999,72,2005-05-20,No
+51,Finance,Financial Analyst,Bachelor,37,2,2969.67,50,2022-04-08,No
+167,sales,Sales Manager,master,43,7,7320.31,74,2017-04-20,No
+667,Engineering,Software Engineer,High School,31,0,2303.49,70,2024-02-19,No
+319,sales,Sales Executive,Master's,22,5,5090.47,61,2019-03-11,No
+82,hr,HR Manager,Master,32,3,5889.87,51,2021-10-12,No
+849,Engineering,QA Engineer,Bachelor,33,2,3189.95,80,2022-08-02,No
+322,Engineeering,QA Engineer,Ph.D.,32,2,6033.38,66,2022-08-12,No
+933,SALES,Account Rep,Bachelor,25,4,4724.75,87,2020-02-13,No
+965,sales,Account Rep,High School,51,4,2856.79,72,2020-03-27,No
+887,Sales,Sales Executive,Bachelor,37,1,2940.24,53,2023-03-15,Yes
+67,Engineering,QA Engineer,High School,33,5,5423.6,73,2019-08-20,No
+335,Engineering,Senior Engineer,Bachelor,28,3,3907.03,66,2021-02-03,No
+7,FINANCE,Finance Manager,master,41,0,5343.6,61,2024-08-12,No
+143,Eng.,QA Engineer,Master,25,19,-999,72,2005-05-20,No
+290,Engineering,Software Engineer,Bachelor,42,2,4310.07,82,2022-01-26,No
+340,HR,Recruiter,Bachelor's,36,5,5191.5,59,2019-10-14,No
+830,Engineering,Senior Engineer,Master's,26,10,6574.51,,2014-03-09,No
+284,Sales,Account Rep,Bachelor,35,7,N/A,84,2017-09-08,No
+501,SALES,Sales Executive,HS,29,1,3104.15,66,2023-10-02,Yes
+665,SALES,Account Rep,Bachelor,38,5,6323.3,59,2019-10-16,No
+65,finance,Financial Analyst,Master,36,1,4884.03,82,2023-03-06,No
+694,SALES,Account Rep,Master,44,4,5414.36,68,2020-03-18,No
+265,finance,Finance Manager,Bachelor's,33,4,4279.38,61,2020-05-02,No
+450,HR,Recruiter,bachelor,47,1,3961.76,68,2023-07-26,No
+581,sales,Sales Manager,Master,32,1,4404.87,83,2023-03-22,Yes
+784,Sales ,Sales Manager,bachelor,36,1,3625.17,76,2023-01-13,No
+21,Engineeering,QA Engineer,Bachelor,44,7,6525.71,71,2017-01-17,No
+443,finance,Finance Manager,Master's,25,3,5721.8,65,2021-05-11,No
+822,FINANCE,Financial Analyst,Master,40,1,5924.26,53,2023-08-01,No
+747,Finance ,Finance Manager,Bachelor,48,1,3432.67,78,2023-01-12,Yes
+297,Engineering,Software Engineer,Master,27,1,6210.77,80,2023-07-05,No
+500,Sales ,Account Rep,Bachelor,24,6,5178.46,63,2018-04-05,No
+573,Marketing,Marketing Manager,Master,28,0,6000.25,75,2024-08-09,No
+262,engineering,QA Engineer,High School,38,11,6946.51,85,2013-07-19,No
+805,engineering,QA Engineer,master,38,4,6145.43,82,2020-12-21,No
+866,marketing,Marketing Manager,Bachelor,47,2,5009.33,94,2022-02-10,No
+683,SALES,Sales Executive,bachelor,33,1,5192.02,74,2023-07-23,No
+558,Engineering,Senior Engineer,High School,31,0,4139.57,71,2024-03-27,Yes
+612,Engineering,QA Engineer,High School,34,3,3438.84,68,2021-04-01,No
+622,Finance,Accountant,Master,38,?,6960.62,49,2015-03-20,No
+529,Marketing,Marketing Manager,High School,34,1,null,66,2023-02-11,No
+882,hr,HR Specialist,Master's,55,0,4688.18,66,2024-11-10,No
+189,HR,HR Manager,master,30,0,5279.84,66,2024-08-15,No
+252,Marketing,Content Specialist,Bachelor,40,1,4789.55,81,2023-07-26,No
+72,Engineeering,Software Engineer,Bachelor,28,2,3296.54,38,2022-11-27,No
+102,engineering,Software Engineer,Bachelor,37,1,null,63,2023-09-02,Yes
+789,Marketing,Marketing Manager,High School,33,10,5458.09,91,2014-09-06,No
+946,SALES,Sales Manager,Master,58,2,5480.57,73,2022-10-21,No
+398,FINANCE,Accountant,Bachelor's,27,0,3555.2,82,2024-08-11,Yes
+888,Sales ,Sales Manager,Bachelor,43,7,5701.6,59,2017-10-04,No
+566,Sales,Account Rep,bachelor,37,5,4915.31,48,2019-03-18,No
+668,Sales,Sales Executive,Master,40,2,NA,93,2022-06-04,No
+996,Engineeering,QA Engineer,Bachelor,51,0,3142.52,90,2024-11-27,No
+772,Sales,Sales Executive,Master's,37,5,6181.97,88,2019-06-11,No
+331,Engineering,Senior Engineer,Master,21,NA,3767.41,65,2017-06-27,No
+453,HR,HR Specialist,PhD,39,0,NA,65,2024-01-18,No
+599,Sales ,Sales Executive,High School,44,1,2944.51,83,2023-01-17,Yes
+735,Sales,Sales Executive,Bachelor's,4,NA,5983.57,59,2018-04-15,No
+366,Finance,Accountant,Bachelor,21,N/A,3799.35,63,2024-04-13,Yes
+282,Sales,Sales Manager,Bachelor,45,5,5877.57,80,2019-01-17,No
+867,Sales,Account Rep,Master,34,0,4697.13,75,2024-12-12,No
+782,engineering,QA Engineer,HS,37,4,4473.91,79,2020-10-13,No
+814,Marketing,Marketing Analyst,Bachelor,27,0,3745.66,92,2024-09-19,No
+854,Marketing ,Marketing Analyst,high school,31,0,2932.07,61,2024-02-18,Yes
+464,Marketing,Marketing Analyst,bachelor,31,1,3869.51,67,2023-06-18,Yes
+800,marketing,Marketing Manager,bachelor,34,13,9661.4,58,2011-06-25,No
+208,Engineering,QA Engineer,HS,33,?,3888.78,88,2023-11-11,No
+514,Finance,Accountant,Bachelor's,30,7,5793.83,71,2017-09-16,No
+219,Sales ,Account Rep,PhD,43,0,4704.39,77,2024-03-02,No
+240,Marketing,Marketing Manager,Bachelor,34,0,2988.34,68,2024-01-17,Yes
+964,Marketing ,Content Specialist,bachelor,33,11,6131.63,52,2013-01-01,No
+356,sales,Account Rep,Bachelor,36,5,5932.51,57,2019-07-14,No
+565,Sales,Account Rep,Master,35,3,5320.05,72,2021-07-09,No
+193,FINANCE,Finance Manager,Master,41,1,4650.98,76,2023-09-01,Yes
+281,Engineering,QA Engineer,Master,27,1,5540.93,98,2023-01-21,Yes
+192,Sales,Account Rep,High School,22,0,3149.39,74,2024-09-19,No
+408,Marketing,Marketing Analyst,High School,38,1,3946.57,54,2023-09-23,No
+431,Finance,Finance Manager,Bachelor,35,3,3631.26,77,2021-07-27,Yes
+686,HR,HR Manager,Bachelor,37,1,4101.09,64,2023-09-17,No
+133,Sales ,Sales Manager,Bachelor,37,4,6489.87,72,2020-10-04,No
+708,Engineering,QA Engineer,Bachelor,35,5,4865.15,75,2019-03-15,No
+524,finance,Finance Manager,bachelor,32,2,3827.04,68,2022-05-11,No
+253,Engineering,Software Engineer,Bachelor,31,25,8807.73,55,2005-06-21,No
+721,HR,HR Specialist,Bachelor,40,2,5777.41,59,2022-07-08,No
+552,Sales,Sales Manager,Bachelor's,41,1,3888.78,86,2023-04-27,No
+264,HR,HR Specialist,Bachelor,4,0,2803.95,70,2024-10-06,Yes
+71,Finance,Accountant,Bachelor,37,1,3813.51,59,2023-09-21,No
+273,Engineering,Software Engineer,Master,32,3,6759.84,81,2021-04-18,No
+113,Sales,Sales Manager,master,34,12,7479.38,92,2012-09-18,No
+328,Marketing,Marketing Analyst,High School,26,0,2358.94,77,2024-02-01,No
+116,Engineering,Senior Engineer,High School,42,1,3011.27,100,2023-03-03,Yes
+324,MARKETING,Marketing Analyst,High School,40,4,2975.57,53,2020-04-12,No
+38,FINANCE,Accountant,PhD,33,7,7814.6,72,2017-08-10,No
+868,MARKETING,Marketing Analyst,Bachelor,27,1,4196.46,51,2023-08-13,No
+424,Engineering,Software Engineer,High School,35,2,4377.58,93,2022-11-15,Yes
+906,MARKETING,Marketing Analyst,Bachelor,55,3,3538.86,71,2021-04-19,No
+835,Sales,Sales Manager,Bachelor,38,2,3532.25,71,2022-03-04,Yes
+948,Engineering,QA Engineer,bachelor,43,6,5411.22,78,2018-04-12,No
+516,Marketing,Marketing Manager,Master's,42,1,5145.76,57,2023-05-19,No
+531,Marketing,Marketing Manager,Bachelor,52,11,6318.16,86,2013-08-11,Yes
+603,HR,HR Specialist,phd,30,2,7320.74,57,2022-04-15,Yes
+755,Marketing,Marketing Manager,Bachelor's,33,?,4489.92,94,2024-05-09,No
+654,Engineering,QA Engineer,Master,40,6,6197.29,67,2018-01-10,No
+279,Engineering,QA Engineer,high school,34,0,3785.09,63,2024-04-02,Yes
+840,Marketing,Marketing Analyst,PhD,44,5,N/A,65,2019-03-07,No
+695,SALES,Account Rep,Ph.D.,30,0,7626.83,70,2024-12-13,No
+3,Sales ,Account Rep,bachelor,34,3,3577.61,73,2021-07-18,No
+230,sales,Account Rep,Master,36,6,NA,70,2018-03-06,No
+504,Human Resources,HR Manager,Master,29,8,8564.48,54,2016-10-18,No
+991,Engineering,QA Engineer,Master,33,2,6394.98,75,2022-06-26,No
+869,Engineering,Senior Engineer,Bachelor,42,2,5229.79,51,2022-09-14,Yes
+915,Finance,Finance Manager,master,21,10,8564.61,88,2014-10-14,No
+619,engineering,Software Engineer,Master,26,2,4659.39,68,2022-03-24,No
+200,Marketing,Content Specialist,Master,34,2,5599.99,69,2022-05-17,No
+372,Engineering,Senior Engineer,Bachelor,25,21,9591.23,66,2005-07-09,No
+917,Engineering,Software Engineer,High School,30,4,4950.75,79,2020-09-27,No
+955,HR,Recruiter,Bachelor,47,2,4419.22,62,2022-12-19,No
+438,Engineeering,Software Engineer,bachelor,29,0,,65,2024-10-26,No
+656,Engineering,Software Engineer,Bachelor,43,0,4084.2,81,2024-02-01,No
+66,finance,Accountant,high school,34,3,4293.33,,2021-06-25,No
+308,Sales,Account Rep,bachelor,24,1,3354.01,65,2023-02-19,No
+41,Marketing,Marketing Manager,Bachelor,34,2,3755.55,49,2022-05-11,Yes
+591,Engineering,Senior Engineer,Bachelor,31,2,3461.73,63,2022-07-17,No
+795,Finance ,Finance Manager,Master,32,0,6034.21,71,2024-11-08,No
+697,Engineering,Senior Engineer,Master,24,3,4761.48,74,2021-09-23,No
+505,Sales,Sales Manager,Bachelor,21,0,,82,2024-03-20,No
+542,Sales,Sales Manager,phd,22,3,7834.41,75,2021-03-27,No
+50,Engineering,QA Engineer,Bachelor,50,7,5537.75,81,2017-08-05,No
+604,engineering,Senior Engineer,Master,33,4,5580.69,80,2020-11-25,No
+274,H.R.,HR Manager,Master,25,2,4751.14,72,2022-04-15,No
+745,Finance,Finance Manager,Bachelor,57,3,4474.04,61,2021-03-26,No
+702,HR,HR Specialist,PhD,40,1,6591.78,63,2023-06-17,No
+687,Sales ,Sales Executive,bachelor,32,11,6852.9,73,2013-03-06,Yes
+865,Engineering,QA Engineer,Bachelor,37,4,37099.71,,2020-03-13,No
+178,Finance ,Financial Analyst,High School,38,1,3558.57,66,2023-01-24,No
+301,Marketing ,Content Specialist,Bachelor's,35,7,6356.71,64,2017-12-08,No
+38,Finance,Accountant,PhD,33,7,7814.6,72,2017-08-10,No
+354,Finance,Financial Analyst,High School,27,3,3961.68,75,2021-06-04,No
+203,hr,HR Manager,master,28,N/A,5772.62,83,2021-03-15,No
+237,Engineeering,Software Engineer,Bachelor,36,6,4509.63,58,2018-08-04,No
+150,Marketing,Marketing Manager,bachelor,32,3,4141.53,51,2021-05-09,Yes
+725,Finance,Finance Manager,Master's,31,0,47818.71,63,2024-12-26,No
+448,Marketing ,Marketing Manager,High School,35,1,2551.78,65,2023-06-04,Yes
+218,Marketing ,Marketing Manager,Master,21,0,4100.41,55,2024-08-03,No
+723,FINANCE,Finance Manager,Master,34,1,4527.9,,2023-06-10,No
+474,Engineering,QA Engineer,Bachelor,53,3,4666.16,83,2021-02-03,No
+588,Sales,Sales Manager,High School,21,0,1909.13,56,2024-09-10,No
+653,engineering,Software Engineer,Bachelor,34,3,3611.21,79,2021-07-01,No
+733,Finance,Finance Manager,Master,33,7,66020.58,45,2017-06-07,Yes
+303,Engineeering,QA Engineer,High School,39,,3175.44,78,2021-04-07,No
+914,Sales,Sales Executive,Bachelor,40,3,5241.71,58,2021-09-18,No
+978,Engineering,Software Engineer,Master's,21,2,6227.94,91,2022-04-23,No
+717,Sales,Sales Executive,Bachelor,32,9,6160.33,70,2015-06-05,No
+986,Engineering,QA Engineer,Master,43,1,N/A,73,2023-07-25,No
+389,Sales,Sales Executive,Bachelor,40,1,3259.45,59,2023-02-19,No
+479,marketing,Marketing Manager,High School,29,1,3052.87,78,2023-10-16,No
+492,Marketing,Content Specialist,Master,31,0,,68,2024-01-05,No
+423,Finance,Accountant,bachelor,42,3,4633.14,,2021-05-13,No
+388,Engineering,Senior Engineer,Master,21,0,4311.22,68,2024-05-03,Yes
+860,Finance,Accountant,bachelor,38,5,5303.8,78,2019-11-02,No
+391,Engineering,Senior Engineer,high school,38,5,3733.38,79,2019-09-15,Yes
+535,Sales,Sales Executive,High School,26,10,5804.7,72,2014-04-10,No
+353,Engineering,Software Engineer,Bachelor,25,3,5854.54,65,2021-02-15,No
+194,Engineering,QA Engineer,High School,48,5,3832.03,73,2019-02-09,No
+236,HR,Recruiter,Master,27,18,9561.98,52,2006-11-15,No
+770,HR,HR Specialist,Master,29,5,6937.21,64,2019-03-22,No
+890,sales,Sales Manager,Bachelor,33,6,4067.29,59,2018-12-14,No
+481,Finance,Financial Analyst,Master's,37,4,6732.58,76,2020-09-11,No
+56,Sales,Sales Executive,Bachelor,34,7,5612.66,61,2017-04-25,No
+117,Sales,Account Rep,Bachelor,37,5,5540.25,49,2019-04-24,No
+97,Marketing,Marketing Analyst,Bachelor,27,8,5943.29,64,2016-09-02,No
+142,HR,HR Specialist,Bachelor,49,0,3278.47,72,2024-12-17,No
+958,Engineering,Senior Engineer,master,31,0,4478.16,91,2024-05-11,No
+918,Engineering,Software Engineer,Bachelor,4,2,4825.33,60,2022-02-27,No
+636,Engineering,Software Engineer,Bachelor,21,4,-999,74,2020-09-17,No
+598,engineering,Software Engineer,Master,32,1,5572.36,77,2023-07-26,No
+674,Human Resources,Recruiter,HS,51,4,3643.9,62,2020-05-09,No
+121,HR,Recruiter,Bachelor,21,7,5761.6,53,2017-01-25,No
+811,Engineering,QA Engineer,Master,38,1,4077.47,63,2023-12-07,No
+473,engineering,Senior Engineer,Bachelor,36,16,8149.43,85,2008-09-08,No
+930,Engineering,Software Engineer,Master,41,0,null,73,2024-03-05,Yes
+63,Marketing ,Marketing Manager,Ph.D.,29,10,6916.65,78,2014-12-03,No
+809,Human Resources,HR Specialist,Master,26,0,2617.54,58,2024-01-10,No
+819,Sales,Sales Executive,Bachelor's,29,2,4441.97,,2022-03-11,No
+454,marketing,Marketing Analyst,Bachelor,41,1,3957.17,90,2023-12-21,No
+780,Marketing,Marketing Manager,Master's,21,1,5444.39,69,2023-07-03,No
+415,Sales,Sales Executive,Master,34,2,NA,67,2022-02-10,No
+4,Finance ,Accountant,Bachelor,29,1,4523.36,,2023-08-15,No
+59,Marketing,Content Specialist,Bachelor's,32,13,6090.25,74,2011-08-06,No
+224,engineering,Senior Engineer,bachelor,37,6,5488.08,88,2018-11-23,No
+222,HR,HR Manager,bachelor,21,10,7083.85,69,2014-05-07,No
+466,Finance,Finance Manager,Bachelor,46,2,4867.93,77,2022-12-12,No
+53,Sales,Sales Executive,Bachelor's,31,1,3552.65,71,2023-08-11,No
+486,Engineering,Software Engineer,high school,130,3,3471.58,66,2021-06-07,No
+969,Engineering,QA Engineer,bachelor,39,4,5032.3,65,2020-03-22,No
+709,Engineering,Senior Engineer,phd,36,1,4417.49,70,2023-05-04,Yes
+156,engineering,Senior Engineer,Bachelor,30,?,3974.8,83,2023-05-12,No
+707,Eng.,Software Engineer,bachelor,39,2,4240.9,74,2022-05-12,No
+683,Sales,Sales Executive,bachelor,33,1,5192.02,74,2023-07-23,No
+249,Engineeering,Senior Engineer,Master,28,1,4449.53,66,2023-11-04,No
+442,Engineering,Software Engineer,Bachelor,28,0,NA,74,2024-02-13,No
+904,H.R.,Recruiter,high school,51,8,6313.73,66,2016-06-21,No
+118,Engineering,Software Engineer,bachelor,26,2,29220.75,65,2022-06-12,No
+569,Engineeering,Software Engineer,Master's,21,1,5113.78,,2023-09-14,No
+925,HR,HR Manager,Bachelor's,46,0,3786.0,68,2024-04-13,No
+292,HR,Recruiter,Bachelor,39,6,5866.54,81,2018-04-26,No
+382,Finance,Accountant,Bachelor,38,7,6544.08,58,2017-12-24,No
+952,Engineering,QA Engineer,Bachelor,32,6,6475.11,54,2018-04-21,No
+201,HR,Recruiter,Master,33,10,N/A,67,2014-08-08,No
+762,sales,Account Rep,Bachelor's,29,4,4830.12,63,2020-01-09,No
+963,Marketing,Content Specialist,Master's,40,1,4658.58,80,2023-02-26,No
+506,marketing,Content Specialist,Master,36,0,4840.22,68,2024-02-10,No
+815,Marketing,Marketing Analyst,Bachelor,39,0,3998.69,65,2024-08-10,Yes
+861,ENGINEERING,Senior Engineer,Bachelor,34,5,5366.96,73,2019-11-16,Yes
+341,marketing,Marketing Manager,High School,42,0,3744.93,67,2024-12-25,No
+155,Engineering,Software Engineer,bachelor,28,4,5548.73,52,2020-10-08,No
+916,Engineering,Software Engineer,bachelor,21,2,3480.24,81,2022-06-23,No
+595,Sales,Account Rep,Bachelor,32,9,34797.06,62,2015-03-08,No
+777,hr,Recruiter,Master,33,1,5873.75,43,2023-06-07,No
+838,finance,Finance Manager,master,22,1,4472.97,68,2023-12-03,No
+323,Sales,Sales Executive,Bachelor,32,4,3626.06,81,2020-03-24,No
+643,Marketing,Marketing Manager,Bachelor,37,1,5123.76,62,2023-09-26,No
+624,Finance,Financial Analyst,Master,31,11,7366.22,,2013-12-10,No
+83,Sales,Sales Executive,Bachelor,26,4,5408.0,100,2020-05-26,No
+621,Finance,Financial Analyst,High School,40,6,5037.39,68,2018-08-06,No
+465,Marketing,Marketing Manager,Master's,31,10,5565.21,58,2014-11-09,Yes
+761,HR,HR Manager,PhD,55,10,8623.87,73,2014-09-02,No
+599,Sales ,Sales Executive,High School,44,1,2944.51,83,2023-01-17,Yes
+334,Sales,Account Rep,bachelor,26,6,4058.72,88,2018-01-03,No
+11,FINANCE,Accountant,Master,31,9,-999,82,2015-09-03,Yes
+471,engineering,QA Engineer,Bachelor,22,1,2771.14,61,2023-09-08,Yes
+33,Sales,Account Rep,Bachelor,21,4,5604.16,90,2020-03-09,No
+819,Sales,Sales Executive,Bachelor's,29,2,4441.97,,2022-03-11,No
+934,Human Resources,HR Manager,High School,31,3,4017.02,68,2021-03-13,No
+383,Engineering,QA Engineer,Bachelor,38,1,3733.12,62,2023-04-17,No
+726,Sales,Account Rep,Master,45,8,4041.11,70,2016-04-27,No
+631,Marketing,Marketing Analyst,HS,21,1,3375.55,73,2023-08-09,No
+959,Marketing,Marketing Analyst,High School,21,3,3737.77,57,2021-07-23,No
+968,Sales,Sales Executive,PhD,38,0,6118.77,61,2024-07-27,Yes
+379,Marketing,Marketing Analyst,Ph.D.,39,?,7782.24,85,2020-11-14,Yes
+90,Marketing,Content Specialist,Bachelor,33,2,4351.38,84,2022-07-12,No
+214,Sales,Sales Executive,Bachelor,41,1,4211.53,93,2023-05-22,No
+987,Engineeering,Senior Engineer,Bachelor's,25,2,4282.83,73,2022-06-26,No
+134,Marketing,Marketing Analyst,Bachelor,40,0,3247.56,78,2024-07-24,No
+347,SALES,Account Rep,Bachelor,22,4,4438.99,78,2020-02-05,No
+670,Engineering,Software Engineer,Bachelor,28,0,30291.57,76,2024-01-10,No
+8,Engineering,QA Engineer,Master,31,3,5931.19,51,2021-03-01,No
+658,MARKETING,Marketing Analyst,Bachelor,31,0,3677.93,82,2024-04-16,No
+321,FINANCE,Accountant,Bachelor,41,3,5258.69,64,2021-01-10,No
+832,Eng.,Senior Engineer,Bachelor,46,1,3830.23,74,2023-12-13,No
+188,Engineering,Software Engineer,High School,29,5,4796.4,,2019-02-26,No
+553,HR,HR Manager,Bachelor,42,4,NA,69,2020-01-16,No
+305,Engineering,Senior Engineer,High School,36,0,3009.25,67,2024-08-10,No
+32,finance,Accountant,Bachelor,46,6,5654.8,85,2018-08-10,No
+652,Marketing,Marketing Analyst,Bachelor,37,6,5858.94,65,2018-03-18,No
+241,FINANCE,Finance Manager,Bachelor,36,2,?,78,2022-12-11,No
+880,Finance,Accountant,PhD,27,1,5984.65,71,2023-10-12,No
+175,Sales,Sales Manager,Bachelor,36,1,3915.67,82,2023-06-12,No
+246,Sales,Account Rep,PhD,22,1,5608.16,81,2023-11-18,No
+57,Human Resources,HR Specialist,Bachelor,130,3,5674.04,47,2021-04-26,No
+799,Engineering,Software Engineer,Master,34,1,5142.23,87,2023-10-09,No
+146,Sales ,Sales Manager,Bachelor,40,4,6077.43,75,2020-07-20,No
+91,Engineeering,Software Engineer,master,21,8,,58,2016-11-23,No
+393,sales,Sales Executive,Bachelor's,31,0,4057.01,,2024-08-09,No
+311,Sales,Sales Executive,Bachelor's,37,10,6223.04,61,2014-08-21,No
+360,Engineeering,Software Engineer,Master,30,5,5333.85,76,2019-04-09,No
+94,Sales,Sales Executive,Master,46,11,NA,69,2013-11-13,No
+738,Sales,Sales Manager,Master,28,4,5376.0,59,2020-10-18,No
+930,Engineering,Software Engineer,Master,41,0,null,73,2024-03-05,Yes
+377,HR,HR Manager,Bachelor,42,0,3585.51,63,2024-07-16,Yes
+244,MARKETING,Marketing Analyst,master,21,1,6085.5,74,2023-10-08,Yes
+875,engineering,Senior Engineer,Master,21,4,4578.9,86,2020-09-09,No
+88,finance,Financial Analyst,master,42,4,6978.72,84,2020-10-15,Yes
+215,Marketing,Marketing Analyst,Master,34,0,5270.67,71,2024-04-06,No
+445,Engineering,Senior Engineer,Ph.D.,21,2,NA,67,2022-04-08,No
+174,Engineering,Software Engineer,High School,33,1,,60,2023-09-04,No
+426,MARKETING,Content Specialist,master,32,7,4915.36,84,2017-08-22,No
+823,Marketing,Content Specialist,Bachelor,25,4,5773.32,66,2020-05-16,No
+119,Engineering,Software Engineer,Master,37,0,4987.69,75,2024-06-15,No
+120,hr,HR Manager,High School,31,1,3760.42,68,2023-01-08,Yes
+677,Finance,Financial Analyst,Bachelor,35,0,3666.41,96,2024-06-17,Yes
+1,Eng.,QA Engineer,Master,26,2,5201.3,61,2022-05-02,No
+395,Engineering,Software Engineer,master,23,2,5579.43,63,2022-05-19,No
+402,Engineeering,QA Engineer,Master,47,7,7746.88,84,2017-01-24,No
+405,Engineering,Software Engineer,Bachelor,29,2,,73,2022-05-22,No
+657,Finance,Finance Manager,bachelor,26,6,4866.34,78,2018-07-16,No
+664,Eng.,Software Engineer,PhD,26,0,6044.4,80,2024-08-03,No
+163,marketing,Content Specialist,bachelor,36,5,3749.0,75,2019-02-15,Yes
+115,Engineering,Senior Engineer,bachelor,47,2,4993.43,53,2022-08-23,No
+151,Marketing,Content Specialist,Master,35,6,6302.88,53,2018-12-06,No
+626,Finance,Financial Analyst,bachelor,36,10,5043.12,91,2014-08-15,No
+628,Sales,Sales Executive,Bachelor,25,5,6029.67,95,2019-11-01,Yes
+774,hr,Recruiter,Bachelor,4,4,5160.23,82,2020-03-01,No
+369,Marketing,Marketing Manager,Bachelor,27,0,3651.04,,2024-11-27,No
+544,FINANCE,Accountant,high school,25,1,3106.45,89,2023-01-14,No
+478,Sales,Account Rep,Bachelor,35,4,5100.22,69,2020-07-13,No
+533,Sales,Sales Executive,High School,29,7,4857.52,100,2017-04-12,No
+513,Engineering,Senior Engineer,Master,28,1,4486.51,54,2023-10-17,Yes
+861,Engineering,Senior Engineer,Bachelor,34,5,5366.96,73,2019-11-16,Yes
+134,Marketing,Marketing Analyst,Bachelor,40,0,3247.56,78,2024-07-24,No
+259,Eng.,QA Engineer,Bachelor,25,13,6999.02,77,2011-04-12,No
+625,Engineering,Software Engineer,Bachelor's,27,6,6809.49,50,2018-11-07,Yes
+898,finance,Finance Manager,Bachelor's,27,N/A,3433.55,60,2023-06-09,Yes
+136,sales,Sales Manager,Bachelor's,37,5,3824.21,76,2019-08-19,No
+617,SALES,Sales Manager,phd,27,2,N/A,88,2022-05-22,No
+982,Marketing,Marketing Analyst,Master,47,2,4750.97,83,2022-02-07,No
+704,Engineeering,Software Engineer,Bachelor,38,5,6211.25,86,2019-03-23,No
+593,Finance,Financial Analyst,bachelor,24,0,3177.62,66,2024-06-02,No
+846,SALES,Sales Executive,master,46,7,5924.35,76,2017-01-09,No
+502,finance,Financial Analyst,Master's,43,0,5091.12,61,2024-02-18,No
+539,Engineering,QA Engineer,Master,47,,6327.01,58,2019-04-14,No
+713,SALES,Sales Manager,Bachelor,31,-999,4004.48,82,2023-12-26,No
+582,Engineering,Senior Engineer,Master,28,3,5480.72,85,2021-11-25,Yes
+344,MARKETING,Marketing Analyst,Bachelor,21,0,3880.82,65,2024-07-16,No
+752,Finance,Financial Analyst,High School,40,1,3006.31,62,2023-03-12,No
+663,Human Resources,HR Specialist,Bachelor,31,5,5940.08,65,2019-02-24,No
+294,Sales,Account Rep,Master's,36,6,5856.65,79,2018-06-16,No
+365,marketing,Marketing Analyst,PhD,35,1,6715.73,81,2023-02-11,No
+669,Finance,Accountant,High School,29,3,3879.72,78,2021-02-09,No
+15,SALES,Sales Executive,Bachelor,26,7,5614.02,60,2017-04-27,Yes
+87,marketing,Marketing Manager,High School,41,13,5692.69,79,2011-12-16,No
+371,Human Resources,HR Manager,bachelor,32,1,4466.04,79,2023-10-23,No
+166,engineering,Senior Engineer,Bachelor,29,?,4218.87,89,2023-10-26,Yes
+935,Engineering,Software Engineer,Bachelor,45,2,3244.52,,2022-02-13,No
+336,Sales,Account Rep,Bachelor,29,7,N/A,64,2017-09-16,No
+60,H.R.,Recruiter,Bachelor,36,7,4792.68,79,2017-12-15,No
+355,finance,Finance Manager,Master's,39,?,6720.56,70,2020-11-16,Yes
+425,SALES,Sales Manager,Master,36,2,,45,2022-01-12,No
+293,HR,HR Specialist,Bachelor,41,6,5137.75,83,2018-09-24,No
+42,Finance,Finance Manager,PhD,38,3,6312.66,94,2021-06-03,No
+330,Sales,Sales Manager,Bachelor,37,1,2916.68,84,2023-01-22,No
+615,hr,Recruiter,Master,37,0,5798.65,56,2024-02-26,No
+430,sales,Account Rep,bachelor,24,7,4114.35,63,2017-06-13,No
+80,Engineering,Senior Engineer,Master,21,14,7857.98,75,2010-11-14,No
+29,Engineering,Senior Engineer,Master,37,3,62322.75,53,2021-05-22,No
+255,sales,Account Rep,master,34,2,4539.84,79,2022-08-15,No
+797,Sales,Account Rep,High School,27,5,3575.01,58,2019-09-08,No
+459,Eng.,QA Engineer,Bachelor's,34,0,3443.0,69,2024-07-20,No
+384,FINANCE,Finance Manager,Bachelor,45,2,4401.43,72,2022-03-13,No
+314,hr,HR Specialist,bachelor,52,0,2610.39,,2024-10-08,Yes
+85,marketing,Marketing Manager,Bachelor,34,0,3902.05,65,2024-11-02,No
+575,sales,Sales Manager,Master's,26,1,4642.03,53,2023-10-05,Yes
+137,finance,Financial Analyst,High School,51,0,2442.98,79,2024-01-22,Yes
+112,Engineeering,Senior Engineer,Bachelor,34,0,3646.56,70,2024-06-07,Yes
+195,Engineering,QA Engineer,Bachelor,29,2,4812.82,82,2022-05-05,No
+179,SALES,Sales Manager,bachelor,51,1,4621.25,69,2023-06-16,Yes
+939,Sales,Sales Executive,HS,29,1,3580.66,52,2023-02-21,No
+497,SALES,Sales Manager,high school,32,3,4181.01,51,2021-01-26,No
+130,Engineering,Software Engineer,Bachelor,22,0,3122.56,75,2024-02-14,No
+338,Sales,Sales Executive,Bachelor,31,1,3992.62,77,2023-05-22,No
+609,Finance,Financial Analyst,Master,44,1,4898.51,51,2023-01-02,No
+125,Engineering,Senior Engineer,bachelor,38,14,6146.51,75,2010-05-15,No
+105,Marketing,Content Specialist,Bachelor,33,11,5346.5,87,2013-02-15,No
+227,Finance ,Finance Manager,Master,33,1,6551.13,89,2023-07-21,Yes
+269,Sales,Account Rep,Master,36,6,6581.47,38,2018-12-17,No
+153,Sales,Account Rep,bachelor,47,0,4252.59,53,2024-05-21,No
+585,hr,HR Specialist,bachelor,37,1,3864.43,59,2023-08-06,No
+104,Sales,Sales Manager,Master's,29,13,7375.1,76,2011-07-11,No
+594,Finance,Accountant,Bachelor,21,4,4848.07,62,2020-11-14,No
+273,ENGINEERING,Software Engineer,Master,32,3,6759.84,81,2021-04-18,No
+977,Marketing,Marketing Analyst,Bachelor's,39,1,4294.05,60,2023-10-21,Yes
+228,marketing,Marketing Analyst,Bachelor,41,4,6413.62,67,2020-01-05,No
+937,FINANCE,Finance Manager,bachelor,42,2,5340.41,41,2022-11-23,No
+302,Human Resources,HR Specialist,Bachelor,35,3,3778.36,79,2021-08-16,No
+276,Sales,Account Rep,Bachelor,25,1,4687.25,66,2023-07-14,No
+127,SALES,Sales Executive,Bachelor's,38,3,5225.92,60,2021-09-01,No
+406,SALES,Sales Manager,Master,42,1,5973.93,81,2023-09-05,No
+684,Marketing,Content Specialist,Bachelor,41,6,6256.33,82,2018-07-01,No
+943,Eng.,QA Engineer,Bachelor's,31,4,5323.08,82,2020-12-26,No
+37,Engineering,Software Engineer,Bachelor,43,6,5929.37,63,2018-05-03,No
+140,HR,HR Specialist,Bachelor,36,0,3367.35,72,2024-11-21,No
+304,Engineering,Software Engineer,Master's,35,0,4320.28,69,2024-02-27,Yes
+268,HR,Recruiter,PhD,43,7,8406.35,59,2017-01-10,No
+534,Sales,Account Rep,Bachelor,44,0,3005.32,64,2024-06-19,Yes
+546,Marketing,Marketing Analyst,High School,33,4,3614.2,69,2020-08-10,No
+213,Marketing,Marketing Analyst,Bachelor,50,2,3707.0,75,2022-10-19,No
+469,HR,HR Manager,PhD,46,NA,6490.24,51,2018-06-10,No
+199,Finance,Financial Analyst,Bachelor,23,3,,85,2021-08-11,Yes
+673,HR,Recruiter,PhD,38,0,5801.9,87,2024-04-10,Yes
+528,Engineering,Software Engineer,bachelor,31,1,4041.82,82,2023-08-20,No
+676,Sales ,Sales Executive,High School,26,12,7606.01,76,2012-03-12,No
+975,Engineeering,Software Engineer,Master,44,0,,78,2024-02-04,No
+242,Eng.,QA Engineer,High School,33,15,7305.57,65,2009-02-17,No
+343,Engineering,Senior Engineer,Bachelor,25,9,6897.99,82,2015-12-13,Yes
+550,Sales,Sales Executive,bachelor,37,4,4284.73,72,2020-05-09,No
+387,engineering,Software Engineer,master,31,0,6557.88,65,2024-09-02,No
+911,Finance,Finance Manager,master,34,5,7038.58,67,2019-04-25,No
+207,Engineeering,Senior Engineer,Bachelor,45,-999,4060.62,68,2024-08-07,No
+296,Engineering,QA Engineer,Master,29,5,7022.31,,2019-05-10,No
+696,Marketing,Marketing Analyst,Bachelor,32,3,4540.9,67,2021-01-20,No
+818,Engineering,QA Engineer,PhD,34,1,5763.81,79,2023-02-17,No
+74,Engineering,Software Engineer,Bachelor,38,1,3222.16,,2023-01-13,No
+793,HR,Recruiter,Bachelor,37,-999,4174.88,75,2023-03-19,No
+105,Marketing,Content Specialist,Bachelor,33,11,5346.5,87,2013-02-15,No
+734,Engineering,Software Engineer,Bachelor,22,3,3565.03,51,2021-10-15,No
+756,SALES,Account Rep,HS,36,1,?,94,2023-05-10,No
+703,Marketing,Content Specialist,Master,35,6,4741.72,65,2018-04-06,No
+17,Engineering,QA Engineer,Bachelor,28,16,7188.72,51,2008-12-05,No
+440,HR,HR Specialist,Master,33,2,5862.1,100,2022-09-04,No
+92,Sales,Account Rep,High School,21,0,4168.97,64,2024-09-10,No
+89,Sales,Sales Executive,Bachelor,25,10,7295.23,85,2014-02-27,No
+451,Sales ,Account Rep,Bachelor,39,1,3063.7,72,2023-03-11,No
+718,Marketing,Marketing Manager,Bachelor,42,0,4403.41,52,2024-12-13,No
+103,engineering,Senior Engineer,master,38,11,6842.52,77,2013-06-01,No
+239,Sales,Sales Executive,Bachelor,34,1,4405.13,96,2023-06-22,Yes
+769,Marketing,Marketing Analyst,High School,30,0,3444.84,91,2024-06-18,Yes
+247,HR,HR Manager,Master's,27,12,8672.92,77,2012-04-05,No
+821,Sales,Sales Manager,Master,25,1,6007.8,55,2023-02-21,No
+158,Finance ,Finance Manager,Bachelor,29,0,4475.85,80,2024-06-15,No
+480,sales,Sales Executive,Master,32,2,6459.62,69,2022-11-01,No
+646,Sales,Sales Executive,Bachelor,42,0,3699.6,37,2024-01-02,No
+974,SALES,Account Rep,Master's,38,2,5998.73,79,2022-11-03,No
+872,FINANCE,Financial Analyst,Master,33,0,4211.0,31,2024-12-21,No
+19,FINANCE,Accountant,High School,35,4,3269.89,57,2020-01-14,No
+751,FINANCE,Finance Manager,Bachelor,23,0,3287.68,61,2024-08-09,No
+122,Sales,Sales Executive,Bachelor,30,3,5032.67,83,2021-06-12,No
+886,Eng.,Software Engineer,Master,26,1,?,79,2023-05-01,No
+750,FINANCE,Financial Analyst,High School,52,9,51045.12,83,2015-12-01,No
+275,engineering,Senior Engineer,Master,31,0,4598.57,,2024-04-19,No
+434,HR,HR Manager,Master's,28,3,4855.43,79,2021-11-25,No
+951,Marketing,Content Specialist,High School,34,3,2568.99,76,2021-10-02,No
+312,Sales,Sales Executive,Bachelor's,41,3,5615.35,,2021-06-14,No
+806,MARKETING,Marketing Manager,Master,31,2,5065.45,86,2022-12-19,No
+902,Human Resources,Recruiter,High School,21,0,3348.07,83,2024-05-16,No
+547,HR,Recruiter,Bachelor,39,1,5941.09,63,2023-04-12,Yes
+182,Sales,Sales Manager,Bachelor,21,1,3735.07,86,2023-11-18,No
+185,Sales,Sales Manager,Ph.D.,36,1,5741.44,71,2023-02-04,Yes
+407,Sales,Account Rep,High School,22,0,2816.11,63,2024-01-18,Yes
+720,Sales,Account Rep,Master,33,3,6763.72,82,2021-09-17,No
+607,FINANCE,Finance Manager,Bachelor,33,0,,57,2024-09-13,No
+693,Engineering,Senior Engineer,Bachelor,33,7,6362.28,67,2017-02-05,No
+521,sales,Account Rep,Master,31,1,4679.77,80,2023-04-26,No
+381,Sales,Account Rep,PhD,23,0,N/A,56,2024-02-15,No
+411,MARKETING,Marketing Analyst,Master,26,0,5738.53,54,2024-04-24,No
+635,Sales,Sales Executive,bachelor,36,4,4628.47,,2020-01-08,No
+370,HR,HR Specialist,High School,25,2,3102.93,74,2022-10-16,No
+859,Marketing,Marketing Analyst,high school,21,4,3755.77,63,2020-11-27,No
+883,marketing,Marketing Analyst,Master,42,1,5364.2,48,2023-01-26,No
+801,HR,Recruiter,PhD,33,7,5729.8,92,2017-10-02,Yes
+79,SALES,Sales Executive,Bachelor's,29,1,4687.27,87,2023-05-05,No
+574,Finance,Financial Analyst,Bachelor,50,1,5022.1,81,2023-11-15,Yes
+847,ENGINEERING,Senior Engineer,HS,47,7,4892.69,46,2017-05-05,Yes
+638,Finance,Finance Manager,Bachelor,38,6,3897.26,75,2018-03-17,Yes
+608,Engineeering,Senior Engineer,PhD,41,7,8448.42,53,2017-09-18,No
+843,FINANCE,Accountant,PhD,28,1,4595.87,78,2023-09-04,Yes
+69,Human Resources,HR Manager,Master,26,11,4917.25,75,2013-09-01,No
+881,engineering,Software Engineer,PhD,39,0,5867.38,72,2024-11-17,No
+980,Marketing,Marketing Manager,Bachelor,43,0,2830.64,63,2024-11-03,No
+417,Sales ,Sales Executive,Ph.D.,30,0,5888.64,78,2024-07-26,Yes
+790,Human Resources,HR Specialist,phd,42,null,7120.59,62,2017-07-14,No
+562,Finance,Finance Manager,bachelor,40,0,3771.24,62,2024-12-03,Yes
+68,Engineeering,Software Engineer,Bachelor,26,5,5070.65,70,2019-10-11,No
+537,Sales,Account Rep,Bachelor,39,0,4329.1,62,2024-02-06,No
+78,Marketing,Marketing Analyst,High School,38,1,3362.59,63,2023-05-19,No
+106,hr,Recruiter,Master's,34,0,5110.2,74,2024-04-06,No
+738,SALES,Sales Manager,Master,28,4,5376.0,59,2020-10-18,No
+829,Engineering,QA Engineer,Bachelor,35,3,5570.36,64,2021-10-15,No
+639,finance,Financial Analyst,Bachelor,33,2,3535.12,76,2022-08-23,No
+560,finance,Accountant,Master,43,3,6252.52,83,2021-05-19,No
+808,Engineering,QA Engineer,phd,25,3,7305.81,84,2021-05-21,No
+691,hr,HR Manager,Bachelor,41,0,3745.08,83,2024-10-24,Yes
+641,SALES,Account Rep,Master,26,1,3185.05,68,2023-08-23,No
+995,SALES,Account Rep,Master,27,7,5386.22,100,2017-06-08,No
+922,SALES,Account Rep,High School,38,2,3241.64,73,2022-08-08,No
+736,Engineering,QA Engineer,PhD,47,0,4224.55,82,2024-07-09,Yes
+826,Engineering,Senior Engineer,Master,21,2,5660.84,71,2022-05-06,No
+491,Finance,Finance Manager,Master's,28,5,5468.67,77,2019-02-11,No
+516,MARKETING,Marketing Manager,Master's,42,1,5145.76,57,2023-05-19,No
+894,engineering,QA Engineer,Bachelor,40,3,3814.46,76,2021-04-13,No
+606,Human Resources,Recruiter,Master,40,0,5730.28,63,2024-01-18,No
+364,HR,HR Specialist,master,44,1,5085.53,80,2023-09-13,No
+70,SALES,Sales Executive,master,24,0,6155.06,88,2024-08-09,No
+549,Sales,Account Rep,Bachelor's,34,2,4618.75,73,2022-08-12,No
+161,Sales,Account Rep,Bachelor,29,-999,5581.42,71,2014-05-03,Yes
+12,Sales,Sales Executive,Bachelor,23,1,3645.37,65,2023-08-09,Yes
+145,Engineering,Software Engineer,Bachelor,51,2,3570.21,71,2022-05-20,No
+518,SALES,Sales Manager,Bachelor,38,4,4896.99,70,2020-09-25,No
+428,HR,HR Specialist,Bachelor,31,13,6115.0,40,2011-12-01,No
+640,Sales,Account Rep,Bachelor,54,1,4532.11,76,2023-01-12,No
+177,Engineering,QA Engineer,bachelor,38,2,5109.06,61,2022-03-25,No
+441,marketing,Marketing Manager,bachelor,26,10,5208.65,71,2014-05-26,No
+522,Sales,Account Rep,bachelor,38,5,5061.5,60,2019-01-23,No
+923,Engineeering,QA Engineer,Bachelor,41,1,3469.73,60,2023-10-21,No
+999,Sales,Sales Manager,Bachelor,37,0,3348.96,,2024-10-17,No
+689,sales,Sales Executive,Bachelor's,24,10,6353.62,81,2014-05-03,No
+232,Sales,Sales Manager,High School,25,2,2154.77,69,2022-06-20,No
+211,Engineering,Senior Engineer,Master's,21,1,3924.15,57,2023-02-13,No
+641,sales,Account Rep,Master,26,1,3185.05,68,2023-08-23,No
+144,HR,Recruiter,Master,40,2,-999,67,2022-09-21,No
+754,engineering,Senior Engineer,Bachelor,37,4,5481.7,72,2020-06-21,No
+520,Sales,Sales Executive,HS,37,9,5149.45,72,2015-08-18,No
+349,Sales,Account Rep,Bachelor's,31,3,3303.77,53,2021-01-16,No
+299,Engineeering,QA Engineer,Master,35,14,N/A,73,2010-07-04,No
+767,Eng.,QA Engineer,High School,42,4,4054.76,55,2020-06-10,Yes
+429,Marketing,Marketing Manager,Master,28,0,4727.78,55,2024-12-02,No
+613,Sales,Account Rep,bachelor,23,13,7983.03,70,2011-10-16,No
+985,HR,Recruiter,High School,26,?,4072.56,60,2021-04-15,No
+994,Sales,Account Rep,bachelor,32,0,4175.42,74,2024-03-26,No
+9,Marketing,Marketing Manager,Bachelor,30,0,3765.31,73,2024-04-05,No
+157,engineering,Software Engineer,high school,42,0,3258.92,72,2024-04-11,No
+540,Sales,Account Rep,Bachelor,36,0,NA,70,2024-11-15,No
+507,marketing,Marketing Analyst,bachelor,39,3,4159.14,63,2021-05-17,No
+437,Eng.,Senior Engineer,High School,32,4,3726.75,59,2020-07-24,No
+267,Sales,Sales Executive,phd,32,3,-999,84,2021-01-13,No
+827,Sales ,Sales Executive,Bachelor,32,3,5050.46,68,2021-04-13,No
+462,Finance,Accountant,High School,31,7,4695.57,70,2017-05-18,No
+577,Marketing,Marketing Manager,Master,36,3,6567.5,84,2021-06-14,Yes
+339,Marketing,Marketing Analyst,bachelor,34,4,4557.81,63,2020-07-10,No
+256,Marketing,Marketing Analyst,High School,32,7,4603.99,71,2017-09-13,Yes
+853,Finance,Financial Analyst,Master,130,0,6464.11,64,2024-07-16,No
+901,Marketing,Marketing Manager,Master,37,4,6927.74,73,2020-06-08,No
+666,Engineering,Software Engineer,High School,35,3,4301.66,79,2021-06-04,No
+561,Eng.,Senior Engineer,bachelor,29,0,3360.22,59,2024-05-05,No
+209,engineering,Software Engineer,bachelor,46,0,4960.34,58,2024-06-11,Yes
+288,Human Resources,HR Specialist,Bachelor,46,5,4443.26,90,2019-12-06,No
+2,Marketing ,Marketing Manager,Bachelor,30,1,2462.88,83,2023-11-10,Yes
+342,Engineering,QA Engineer,Bachelor,29,7,4974.43,84,2017-10-12,No
+270,engineering,Senior Engineer,Master,38,0,5058.61,78,2024-01-25,Yes
+266,Marketing,Content Specialist,master,33,3,4615.48,,2021-04-01,No
+864,FINANCE,Finance Manager,Master,27,2,3154.04,57,2022-02-19,No
+871,Engineering,Software Engineer,High School,47,0,3935.0,81,2024-04-14,No
+96,MARKETING,Marketing Manager,Ph.D.,29,10,10311.14,65,2014-08-03,No
+727,HR,Recruiter,Bachelor,24,4,4566.08,85,2020-02-07,No
+43,Finance,Accountant,Ph.D.,51,1,5492.22,70,2023-02-05,No
+972,Eng.,Software Engineer,Master,36,2,5678.76,70,2022-02-05,No
+399,Engineering,Senior Engineer,High School,33,0,2941.44,58,2024-03-20,No
+884,Marketing,Marketing Analyst,Master,22,-999,7270.42,74,2012-11-13,No
+629,Engineeering,Software Engineer,Bachelor,30,0,3915.3,57,2024-01-19,No
+46,HR,HR Manager,Master,30,0,5046.57,94,2024-03-21,No
+162,HR,Recruiter,Master's,50,1,4861.62,91,2023-08-14,No
+728,finance,Finance Manager,Bachelor's,35,0,3076.5,90,2024-08-23,No
+630,Engineering,Senior Engineer,Master,33,1,6176.35,58,2023-02-03,Yes
+289,Marketing ,Content Specialist,Bachelor,38,3,4831.35,,2021-11-22,No
+590,Finance,Accountant,High School,48,0,2850.44,84,2024-10-14,No
+970,Finance,Financial Analyst,Master,35,0,4016.82,70,2024-01-02,No
+447,HR,HR Manager,phd,35,1,6641.31,70,2023-08-09,No
+576,Engineering,Software Engineer,Master,29,N/A,5866.52,69,2018-04-18,No
+851,marketing,Marketing Analyst,Master,33,0,4640.93,81,2024-10-25,No
+316,engineering,Software Engineer,Master,41,7,5961.12,58,2017-04-15,No
+944,Engineering,QA Engineer,HS,27,4,,90,2020-04-25,No
+231,HR,HR Manager,Bachelor's,26,0,2994.85,72,2024-05-10,Yes
+810,Sales,Sales Executive,Bachelor,42,2,4597.52,60,2022-10-07,No
+699,Eng.,Senior Engineer,Bachelor,44,17,,65,2007-07-10,No
+877,Sales,Account Rep,Bachelor's,38,5,4989.17,87,2019-04-23,No
+712,Marketing,Content Specialist,High School,35,1,4006.23,82,2023-11-07,No
+77,sales,Sales Executive,Bachelor,41,3,4667.77,82,2021-08-14,No
+634,Marketing,Marketing Analyst,Bachelor,23,2,5493.93,68,2022-05-14,No
+925,HR,HR Manager,Bachelor's,46,0,3786.0,68,2024-04-13,No
+248,Marketing,Marketing Analyst,bachelor,27,1,4523.41,68,2023-08-05,No
+820,Human Resources,Recruiter,High School,30,0,3424.89,63,2024-12-05,Yes
+825,sales,Sales Executive,Master,34,6,7141.22,71,2018-02-04,No
+477,SALES,Sales Executive,High School,33,1,2857.58,58,2023-02-23,No
+671,Marketing,Marketing Analyst,Bachelor,39,8,5905.44,72,2016-03-25,No
+86,HR,HR Specialist,high school,34,2,3170.84,93,2022-03-18,No
+470,Sales,Sales Executive,Bachelor,28,3,4289.13,63,2021-06-19,No
+226,SALES,Sales Executive,Bachelor's,34,0,3905.39,59,2024-04-04,No
+775,hr,Recruiter,Bachelor,42,0,2651.51,81,2024-01-25,No
+332,Marketing,Content Specialist,High School,23,0,3826.5,54,2024-10-20,No
+234,MARKETING,Marketing Manager,Bachelor,34,1,4805.76,62,2023-09-12,No
+589,Marketing,Marketing Manager,Master,25,1,4998.59,70,2023-11-10,No
+476,Marketing,Marketing Manager,Bachelor's,21,NA,4187.15,71,2021-01-20,No
+346,Marketing,Marketing Manager,Bachelor,36,0,3744.92,67,2024-11-22,No
+983,Engineering,QA Engineer,Master,37,0,3987.38,74,2024-04-14,Yes
+600,Finance,Accountant,Master,52,5,3673.12,56,2019-12-20,Yes
+422,Engineering,Senior Engineer,Bachelor,32,9,6043.61,69,2015-09-04,No
+688,engineering,QA Engineer,Bachelor,28,8,5126.22,67,2016-12-05,No
+183,Sales,Account Rep,Bachelor,41,3,4093.99,86,2021-08-18,No
+618,Marketing,Content Specialist,Bachelor,38,1,5021.43,78,2023-12-23,No
+333,sales,Sales Manager,PhD,31,2,6666.2,75,2022-12-03,No
+439,Engineeering,Software Engineer,high school,43,1,3146.37,65,2023-02-22,No
+50,Engineering,QA Engineer,Bachelor,50,7,5537.75,81,2017-08-05,No
+931,Sales,Sales Manager,High School,45,0,2767.45,87,2024-05-22,No
+6,FINANCE,Financial Analyst,bachelor,35,1,4258.75,50,2023-01-25,Yes
+530,Sales,Account Rep,Bachelor,27,N/A,3863.46,86,2024-02-27,No
+235,Sales,Sales Executive,phd,39,2,7160.04,52,2022-09-02,Yes
+487,Human Resources,HR Manager,High School,29,1,3734.05,53,2023-03-17,Yes
+960,Engineering,Senior Engineer,Bachelor,48,15,7246.07,72,2009-09-04,No
+498,Finance ,Financial Analyst,PhD,21,3,7825.61,71,2021-02-14,No
+885,Engineering,Software Engineer,Ph.D.,30,7,7596.83,82,2017-12-13,No
+954,Sales,Account Rep,bachelor,38,0,3893.1,89,2024-01-16,No
+107,Marketing,Content Specialist,Bachelor's,28,0,3418.6,56,2024-11-08,No
+444,finance,Financial Analyst,bachelor,45,2,3677.34,92,2022-04-21,No
+489,HR,HR Manager,Bachelor,36,3,5426.21,80,2021-12-22,No
+647,Eng.,QA Engineer,Master's,37,0,5373.15,61,2024-01-05,No
+13,Engineering,Senior Engineer,PhD,21,1,6225.14,73,2023-06-23,No
+739,MARKETING,Content Specialist,Bachelor,36,2,4617.35,82,2022-04-24,Yes
+727,HR,Recruiter,Bachelor,24,4,4566.08,85,2020-02-07,No
+191,Marketing,Marketing Manager,Master,36,8,7561.49,53,2016-05-08,No
+243,Finance,Accountant,PhD,37,1,6745.72,69,2023-04-24,No
+833,Finance,Accountant,Bachelor,29,4,4568.69,85,2020-03-08,No
+283,Human Resources,Recruiter,Bachelor,45,1,4655.59,86,2023-09-19,No
+30,Sales,Sales Executive,High School,30,15,7457.83,79,2009-05-23,No
+170,sales,Sales Manager,PhD,40,6,4907.88,76,2018-01-23,Yes
+181,Sales,Sales Manager,bachelor,22,?,5882.64,68,2016-10-17,No
+101,Finance,Finance Manager,Master,43,0,?,77,2024-07-02,No
+198,finance,Finance Manager,PhD,27,2,6603.52,66,2022-03-10,No
+496,Finance,Financial Analyst,Bachelor,40,0,-999,69,2024-10-07,No
+722,Engineering,QA Engineer,high school,26,3,4435.21,84,2021-12-19,No
+648,Finance ,Finance Manager,bachelor,28,0,3892.95,59,2024-04-07,No
+45,finance,Finance Manager,Master,35,0,5546.75,88,2024-01-11,No
+992,Finance,Finance Manager,Master,21,5,4666.31,73,2019-04-08,No
+711,FINANCE,Accountant,High School,42,1,3124.2,72,2023-08-27,No
+374,Sales,Account Rep,Bachelor,29,0,3814.89,51,2024-02-12,Yes
+679,Finance,Accountant,master,33,2,3796.09,54,2022-11-23,Yes
+940,Human Resources,HR Specialist,Bachelor,48,1,3359.49,56,2023-02-27,No
+649,engineering,Software Engineer,Bachelor,38,5,5044.3,46,2019-01-10,No
+798,Sales,Account Rep,Bachelor,27,0,4216.02,80,2024-05-26,No
+848,Engineering,Senior Engineer,Master,32,0,3834.85,68,2024-08-11,No
+461,Finance,Finance Manager,Bachelor's,49,5,5314.79,,2019-07-17,No
+909,Engineering,Senior Engineer,Bachelor,37,2,4102.69,96,2022-09-06,No
+414,Sales,Account Rep,Master,29,-999,8229.91,69,2017-11-22,No
+132,marketing,Content Specialist,High School,53,0,3341.52,75,2024-11-19,No
+40,Eng.,QA Engineer,Bachelor,32,2,5325.65,77,2022-09-07,No
+435,HR,HR Manager,Bachelor,38,0,3487.53,70,2024-06-18,No
+216,Engineering,QA Engineer,Bachelor,47,2,4981.16,,2022-02-19,No
+556,Engineeering,Senior Engineer,bachelor,21,NA,6590.56,84,2013-11-20,No
+567,Sales,Sales Executive,high school,26,3,3438.55,67,2021-06-05,No
+763,Finance,Finance Manager,Bachelor,33,1,3473.12,77,2023-11-14,No
+475,Sales,Account Rep,Bachelor's,36,null,3315.65,95,2024-11-06,No
+457,Engineering,Senior Engineer,high school,32,3,4276.78,43,2021-01-07,No
+812,engineering,Senior Engineer,Bachelor,34,5,4427.97,78,2019-07-20,No
+261,Engineering,QA Engineer,Bachelor,33,8,6411.57,54,2016-02-16,No
+817,Engineering,QA Engineer,Bachelor,52,0,3403.57,79,2024-02-01,Yes
+36,Engineeering,Senior Engineer,Bachelor,40,0,4023.46,70,2024-04-19,No
+828,FINANCE,Accountant,High School,44,1,3228.55,67,2023-08-24,Yes
+912,FINANCE,Accountant,Bachelor,26,1,4541.87,74,2023-10-17,No
+310,Marketing,Content Specialist,Master,33,4,6177.48,40,2020-01-17,No
+277,Finance ,Accountant,Bachelor,32,3,3968.92,55,2021-10-23,No
+637,Sales,Sales Executive,Bachelor,24,-999,7729.73,94,2007-01-14,No
+655,Engineering,QA Engineer,PhD,45,1,6970.03,,2023-12-25,No
+623,Marketing,Marketing Analyst,Master,37,0,5155.86,72,2024-11-13,No
+836,sales,Sales Manager,High School,24,6,4020.05,65,2018-08-25,No
+845,HR,Recruiter,Ph.D.,21,1,7550.64,80,2023-04-14,No
+394,Marketing,Content Specialist,bachelor,34,0,2922.01,55,2024-09-18,No
+508,Engineering,Software Engineer,High School,28,0,2870.52,73,2024-07-01,No
+108,Sales,Sales Executive,master,45,7,7181.48,87,2017-05-24,No
+811,Engineering,QA Engineer,Master,38,1,4077.47,63,2023-12-07,No
+525,Engineering,Software Engineer,Bachelor,39,null,4274.24,69,2023-11-04,No
+785,Marketing,Marketing Analyst,bachelor,29,0,?,84,2024-11-08,No
+48,Sales,Sales Manager,Master,38,7,77172.12,,2017-09-17,No
+955,HR,Recruiter,Bachelor,47,2,4419.22,62,2022-12-19,No
+204,Marketing,Marketing Analyst,Master,34,3,5722.1,81,2021-04-06,No
+988,Finance,Financial Analyst,Bachelor,21,0,3690.23,79,2024-12-03,No
+632,Sales,Sales Executive,Bachelor,31,6,5946.66,86,2018-12-14,No
+22,Finance,Accountant,Master,21,0,4710.62,80,2024-03-01,No
+403,sales,Sales Manager,Master,34,?,5705.92,61,2021-09-02,No
+947,finance,Accountant,HS,35,0,2825.53,70,2024-07-19,Yes
+84,Engineering,Senior Engineer,Master,32,3,5040.91,55,2021-04-17,No
+131,Engineering,Senior Engineer,Bachelor,24,2,3311.35,84,2022-07-06,No
+416,Sales,Sales Manager,Master,46,?,50293.17,60,2020-06-13,No
+896,engineering,QA Engineer,high school,25,0,3103.09,63,2024-02-22,No
+842,Sales,Sales Executive,Bachelor,28,2,4749.14,76,2022-05-03,No
+742,Finance,Finance Manager,Bachelor,34,8,6147.19,72,2016-03-19,No
+698,Engineeering,Senior Engineer,High School,47,4,3897.0,85,2020-06-26,No
+287,Engineering,QA Engineer,Master,39,2,4395.54,75,2022-08-09,No
+124,Finance ,Finance Manager,High School,21,14,-999,78,2010-07-12,No
+34,engineering,Senior Engineer,Bachelor's,26,5,-999,82,2019-09-24,No
+788,Finance,Accountant,PhD,45,5,5324.86,58,2019-02-02,No
+517,Finance,Finance Manager,bachelor,21,?,7875.63,75,2012-04-18,No
+924,Engineering,Software Engineer,Master,41,2,4514.92,80,2022-07-17,No
+20,engineering,QA Engineer,Master,39,3,,73,2021-06-06,No
+989,Engineering,QA Engineer,PhD,34,6,9601.02,61,2018-11-24,No
+220,Sales,Sales Manager,High School,37,2,3399.7,,2022-12-13,No
+892,MARKETING,Marketing Manager,Bachelor's,33,8,,68,2016-12-12,No
+580,Sales,Sales Manager,bachelor,45,10,8202.95,78,2014-04-09,No
+482,Engineering,QA Engineer,High School,27,3,3901.29,74,2021-06-10,No
+932,Finance,Accountant,Master's,30,4,6808.08,71,2020-05-11,No
+357,Sales,Sales Executive,Bachelor,39,4,4573.44,59,2020-05-03,No
+662,Sales,Sales Executive,master,25,0,5034.96,65,2024-07-23,Yes
+225,Marketing,Content Specialist,Bachelor,29,5,5165.41,,2019-06-17,No
+760,Eng.,QA Engineer,Master,21,4,4913.53,52,2020-03-12,No
+93,Sales,Sales Executive,Master,21,7,6255.51,80,2017-05-14,No
+152,Engineering,QA Engineer,Bachelor,41,null,4783.74,68,2023-06-05,No
+881,ENGINEERING,Software Engineer,PhD,39,0,5867.38,72,2024-11-17,No
+318,Marketing ,Content Specialist,Bachelor,39,6,6436.15,64,2018-01-01,No
+449,Finance,Financial Analyst,Bachelor,45,7,6655.89,75,2017-02-09,No
+804,Human Resources,Recruiter,Bachelor,39,1,3560.78,78,2023-06-14,No
+746,Sales,Sales Manager,High School,38,2,2928.28,75,2022-07-20,No
+523,Eng.,Senior Engineer,Bachelor,29,6,6181.07,66,2018-09-01,No
+280,engineering,Senior Engineer,Bachelor,23,1,,62,2023-11-09,No
+584,Finance,Financial Analyst,High School,33,3,3513.35,66,2021-09-17,No
+765,SALES,Account Rep,Bachelor,22,0,4991.92,83,2024-06-06,No
+605,SALES,Account Rep,Master,42,0,4470.08,58,2024-09-07,Yes
+287,ENGINEERING,QA Engineer,Master,39,2,4395.54,75,2022-08-09,No
+350,HR,Recruiter,master,21,3,4757.2,63,2021-02-10,No
+928,HR,Recruiter,Ph.D.,40,0,5206.24,54,2024-02-20,No
+375,Finance,Finance Manager,Bachelor,34,3,4943.66,78,2021-06-05,No
+401,sales,Account Rep,Bachelor,38,4,4453.71,57,2020-11-17,No
+705,H.R.,HR Specialist,bachelor,27,1,3769.78,72,2023-12-06,No
+258,SALES,Account Rep,high school,33,14,5020.07,67,2010-03-06,No
+945,Finance,Finance Manager,Master,35,9,8021.58,76,2015-11-15,No
+852,Sales,Account Rep,Master,34,3,6135.66,71,2021-01-27,No
+73,Engineering,Software Engineer,Bachelor,32,3,5025.16,59,2021-01-20,No
+196,Sales,Sales Executive,Master,28,0,4427.1,74,2024-09-19,No
+484,Engineering,QA Engineer,High School,44,0,2997.92,76,2024-11-06,No
+856,MARKETING,Marketing Manager,Bachelor,39,3,4145.64,75,2021-05-18,No
+138,sales,Account Rep,Bachelor,37,1,3996.37,100,2023-03-07,No
+495,Sales,Sales Manager,Bachelor,49,4,5098.93,55,2020-05-17,Yes
+773,engineering,QA Engineer,Bachelor,46,1,2785.95,82,2023-11-09,No
+551,sales,Sales Manager,Bachelor,39,13,68574.51,74,2011-09-19,No
+463,sales,Sales Manager,bachelor,30,1,3362.98,89,2023-03-22,No
+202,HR,HR Specialist,bachelor,25,12,6307.28,73,2012-07-17,No
+313,Sales ,Account Rep,bachelor,21,17,-999,100,2007-04-13,No
+291,HR,HR Manager,Bachelor's,46,3,3071.45,87,2021-12-21,No
+764,Marketing,Marketing Analyst,Master,38,5,5808.31,69,2019-10-27,No
+950,Marketing ,Marketing Manager,Bachelor,37,,3542.18,68,2023-12-06,No
+184,sales,Sales Manager,Bachelor's,38,9,5746.19,67,2015-05-16,No
+251,SALES,Account Rep,High School,32,3,?,100,2021-06-05,No
+824,Engineering,Software Engineer,Bachelor,28,0,2089.16,80,2024-10-02,No
+941,Finance,Finance Manager,Bachelor,23,0,3914.39,68,2024-02-18,No
+392,Engineeering,Software Engineer,Master's,47,0,6458.62,54,2024-02-13,No
+905,Engineeering,Senior Engineer,High School,21,0,2647.39,61,2024-11-16,Yes
+731,Sales,Sales Executive,HS,30,1,3591.59,58,2023-03-12,Yes
+555,Engineering,Software Engineer,master,38,0,4563.14,83,2024-05-18,Yes
+367,SALES,Account Rep,High School,27,2,4664.63,44,2022-01-18,No
+346,Marketing,Marketing Manager,Bachelor,36,0,3744.92,67,2024-11-22,No
+536,Sales,Sales Manager,Master,41,8,5712.69,81,2016-01-17,No
+920,engineering,Senior Engineer,Bachelor,33,11,7315.0,58,2013-04-10,No
+212,MARKETING,Content Specialist,bachelor,35,4,4821.96,56,2020-05-12,No
+503,Engineering,Senior Engineer,master,30,4,4860.54,69,2020-03-26,No
+538,FINANCE,Financial Analyst,Bachelor's,31,3,4262.34,,2021-12-11,No
+176,SALES,Account Rep,HS,27,0,1909.09,82,2024-02-24,No

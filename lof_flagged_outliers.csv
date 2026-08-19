@@ -1,0 +1,41 @@
+Employee_ID,Department,Job_Role,Education_Level,Age,Years_At_Company,Monthly_Income,Performance_Score,Join_Date,Attrition,LOF_Flag,LOF_Score
+223,Sales,Sales Executive,High School,129.99999999999997,0.0,2784.64,80.0,2024-04-08,No,Outlier,-7.263813158149576
+26,Engineering,Software Engineer,Master,129.99999999999997,1.0,3541.41,77.0,2023-12-12,No,Outlier,-7.208875213007028
+853,Finance,Financial Analyst,Master,129.99999999999997,0.0,6464.11,64.0,2024-07-16,No,Outlier,-7.069248829014695
+57,HR,HR Specialist,Bachelor,129.99999999999997,3.0,5674.04,47.0,2021-04-26,No,Outlier,-6.623897826354269
+486,Engineering,Software Engineer,High School,129.99999999999997,3.0,3471.58,66.0,2021-06-07,No,Outlier,-6.561115701556146
+670,Engineering,Software Engineer,Bachelor,28.0,0.0,30291.57,76.0,2024-01-10,No,Outlier,-4.679873014168955
+700,Sales,Sales Manager,Bachelor,32.0,0.0,23594.67,69.0,2024-09-19,No,Outlier,-4.441196661240587
+118,Engineering,Software Engineer,Bachelor,26.0,2.0,29220.75,65.0,2022-06-12,No,Outlier,-4.260579351395662
+865,Engineering,QA Engineer,Bachelor,37.0,4.0,37099.71,74.2,2020-03-13,No,Outlier,-3.335001596269528
+48,Sales,Sales Manager,Master,38.0,7.0,77172.12,72.6,2017-09-17,No,Outlier,-3.2162022526529355
+187,Sales,Sales Manager,Bachelor,31.0,6.0,33710.04,46.0,2018-03-12,No,Outlier,-3.1158656185555538
+725,Finance,Finance Manager,Master,31.0,0.0,47818.71000000001,63.0,2024-12-26,No,Outlier,-2.9064227810084327
+264,HR,HR Specialist,Bachelor,4.0,0.0,2803.95,70.0,2024-10-06,Yes,Outlier,-2.8738777206687875
+171,Sales,Sales Executive,Bachelor,25.0,4.0,55214.55,67.0,2020-12-11,No,Outlier,-2.8327975765218083
+735,Sales,Sales Executive,Bachelor,4.0,1.6,5983.57,59.0,2018-04-15,No,Outlier,-2.827384240108544
+551,Sales,Sales Manager,Bachelor,39.0,13.0,68574.51,74.0,2011-09-19,No,Outlier,-2.8256484840006046
+595,Sales,Account Rep,Bachelor,32.0,9.0,34797.06,62.0,2015-03-08,No,Outlier,-2.810813280926778
+733,Finance,Finance Manager,Master,33.0,7.0,66020.58,45.0,2017-06-07,Yes,Outlier,-2.797425508502868
+29,Engineering,Senior Engineer,Master,37.0,3.0,62322.75,53.0,2021-05-22,No,Outlier,-2.7633409343526436
+918,Engineering,Software Engineer,Bachelor,4.0,2.0,4825.33,60.0,2022-02-27,No,Outlier,-2.7502382371937486
+284,Sales,Account Rep,Bachelor,35.0,7.0,19587.275999999998,84.0,2017-09-08,No,Outlier,-2.615622778288842
+967,Engineering,Software Engineer,Bachelor,4.0,6.0,5226.84,47.0,2018-04-23,No,Outlier,-2.581741162004268
+774,HR,Recruiter,Bachelor,4.0,4.0,5160.23,82.0,2020-03-01,No,Outlier,-2.556901669588054
+206,Marketing,Marketing Analyst,Master,33.0,7.0,53235.72,93.0,2017-07-09,No,Outlier,-2.4769119856888437
+416,Sales,Sales Manager,Master,46.0,7.800000000000001,50293.17,60.0,2020-06-13,No,Outlier,-2.4001795463765805
+750,Finance,Financial Analyst,High School,52.0,9.0,51045.12000000001,83.0,2015-12-01,No,Outlier,-2.2871544923218514
+313,Sales,Account Rep,Bachelor,21.0,17.0,5491.43,100.0,2007-04-13,No,Outlier,-2.0122053400303828
+872,Finance,Financial Analyst,Master,33.0,0.0,4211.0,31.0,2024-12-21,No,Outlier,-2.01185978934742
+253,Engineering,Software Engineer,Bachelor,31.0,25.0,8807.73,55.0,2005-06-21,No,Outlier,-1.9351938376523148
+891,Engineering,Software Engineer,Bachelor,21.0,23.0,9975.68,56.0,2005-10-19,No,Outlier,-1.8715267012277388
+428,HR,HR Specialist,Bachelor,31.0,13.0,6115.0,40.0,2011-12-01,No,Outlier,-1.7759970316491014
+299,Engineering,QA Engineer,Master,35.0,14.0,18001.244,73.0,2010-07-04,No,Outlier,-1.767333934939377
+326,Engineering,Senior Engineer,High School,36.0,4.0,11431.762,88.0,2020-11-16,No,Outlier,-1.7476683515851417
+442,Engineering,Software Engineer,Bachelor,28.0,0.0,9448.096,74.0,2024-02-13,No,Outlier,-1.6409816532582986
+646,Sales,Sales Executive,Bachelor,42.0,0.0,3699.6,37.0,2024-01-02,No,Outlier,-1.6078634379194692
+141,Sales,Account Rep,Bachelor,43.0,20.0,7203.27,80.0,2005-04-08,No,Outlier,-1.5866609782664622
+72,Engineering,Software Engineer,Bachelor,28.0,2.0,3296.54,38.0,2022-11-27,No,Outlier,-1.5783841166227908
+452,Engineering,Senior Engineer,Bachelor,45.0,7.0,4285.51,40.0,2017-04-03,No,Outlier,-1.5757677748373093
+372,Engineering,Senior Engineer,Bachelor,25.0,21.0,9591.23,66.0,2005-07-09,No,Outlier,-1.5607518987809104
+327,Sales,Account Rep,PhD,49.0,9.0,9252.24,52.0,2015-07-11,Yes,Outlier,-1.5370791680140625
